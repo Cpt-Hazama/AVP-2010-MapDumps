@@ -1,0 +1,570 @@
+24.11.2023 02:41 (Init) | Executable Started !
+24.11.2023 02:41 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 02:41 (Materials) | MARE Header: 377 materials in file
+24.11.2023 02:41 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 02:41 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 02:41 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 02:41 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 02:41 (Materials) | Not found match with texture hash b484008 and material hash 671aa566 
+24.11.2023 02:41 (EMOD) | Package name: Refinery
+24.11.2023 02:41 (Materials) | MARE Header: 319 materials in file
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7f0730a4 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 9530228b 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 46592604 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 30cdf0 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash e3bd038 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash c0aa2835 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 6ae943b9 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash df018bcf 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash f254296c 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7f2c22b4 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7df491e2 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 15900c0 and material hash fe1a2b71 
+24.11.2023 02:41 (Model) | Empty model 
+24.11.2023 02:41 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 14 BytesReaden: 28)
+24.11.2023 02:41 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 12 BytesReaden: 28)
+24.11.2023 02:41 (Model) | Empty model 
+24.11.2023 02:41 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8097.SMSG 
+24.11.2023 02:41 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8100.SMSG 
+24.11.2023 02:41 (actor names) | Init hashs
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10069.ENTI)
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10070.ENTI)
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10071.ENTI)
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10072.ENTI)
+24.11.2023 02:41 (Helpers) | Bbox: count: 2688
+24.11.2023 02:41 (Helpers) | Lines: count: 252
+24.11.2023 02:41 (EMOD) | Bbox: count: 503
+24.11.2023 02:41 (Console) | Created !!! 
+24.11.2023 02:41 (Init) | Executable Started !
+24.11.2023 02:41 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 02:41 (Materials) | MARE Header: 377 materials in file
+24.11.2023 02:41 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 02:41 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 02:41 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 02:41 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 97de898 and material hash 10d0ee30 
+24.11.2023 02:41 (EMOD) | Package name: Refinery
+24.11.2023 02:41 (Materials) | MARE Header: 319 materials in file
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7f0730a4 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 9530228b 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 46592604 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 30cdf0 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash e3bd038 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash c0aa2835 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 6ae943b9 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash df018bcf 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash f254296c 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7f2c22b4 
+24.11.2023 02:41 (Materials) | Not found match with texture hash 0 and material hash 7df491e2 
+24.11.2023 02:41 (Materials) | Not found match with texture hash a700c0 and material hash f4d997a4 
+24.11.2023 02:41 (Model) | Empty model 
+24.11.2023 02:41 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 14 BytesReaden: 28)
+24.11.2023 02:41 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 12 BytesReaden: 28)
+24.11.2023 02:41 (Model) | Empty model 
+24.11.2023 02:41 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8097.SMSG 
+24.11.2023 02:41 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8100.SMSG 
+24.11.2023 02:41 (actor names) | Init hashs
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10069.ENTI)
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10070.ENTI)
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10071.ENTI)
+24.11.2023 02:41 (ENTI) | Trying load 147 spawn_property (10072.ENTI)
+24.11.2023 02:41 (Helpers) | Bbox: count: 2688
+24.11.2023 02:41 (Helpers) | Lines: count: 252
+24.11.2023 02:41 (EMOD) | Bbox: count: 503
+24.11.2023 02:41 (Console) | Created !!! 
+24.11.2023 02:45 (Init) | Executable Started !
+24.11.2023 02:45 (Materials) | MARE Header: 377 materials in file
+24.11.2023 02:45 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 02:45 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 02:45 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 02:45 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 02:45 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 02:45 (Materials) | Not found match with texture hash af44308 and material hash bcff3eab 
+24.11.2023 02:45 (EMOD) | Package name: Refinery
+24.11.2023 02:45 (Collisions) | flags: 00000005 name: Building_vis_block_planes emod_id: 1
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_control_room_garage emod_id: 3
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_hive_railing emod_id: 4
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lift_03 emod_id: 5
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lift_2 emod_id: 6
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lower_hive emod_id: 7
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lower_hive_02 emod_id: 8
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lower_hive_2 emod_id: 9
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lower_hive_3 emod_id: 10
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lower_hive_4 emod_id: 11
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_lower_hive_5 emod_id: 12
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_machine-room-corri01 emod_id: 13
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_machine-room-corri2 emod_id: 14
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_machine-room-corri3 emod_id: 15
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_Machine_room emod_id: 16
+24.11.2023 02:45 (Collisions) | flags: 00000022 name: coll_Machine_room_2 emod_id: 17
+24.11.2023 02:45 (Collisions) | flags: 00000e6a name: coll_machine_room_railling emod_id: 18
+24.11.2023 02:45 (Collisions) | flags: 00002e2a name: coll_marine_blocker poly emod_id: 19
+24.11.2023 02:45 (Collisions) | flags: 00006e6a name: coll_marinebridgeblocker emod_id: 20
+24.11.2023 02:45 (Collisions) | flags: 00000028 name: coll_marinestart_mines_01 emod_id: 21
+24.11.2023 02:45 (Collisions) | flags: 00000008 name: coll_marinestart_mines_02 emod_id: 22
+24.11.2023 02:45 (Collisions) | flags: 0000000a name: coll_outbuilding_exterior emod_id: 23
+24.11.2023 02:45 (Collisions) | flags: 00000e6a name: coll_outbuilding_fences emod_id: 24
+24.11.2023 02:45 (Collisions) | flags: 00000022 name: coll_outbuilding_interior_01 emod_id: 25
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_02 emod_id: 26
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_03 emod_id: 27
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_04 emod_id: 28
+24.11.2023 02:45 (Collisions) | flags: 0000000a name: coll_outbuilding_interior_06 emod_id: 29
+24.11.2023 02:45 (Collisions) | flags: 00000e6a name: coll_Outbuilding_roof_barricade emod_id: 30
+24.11.2023 02:45 (Collisions) | flags: 00000e6a name: coll_outbuilding_windowrailings emod_id: 31
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_pit_01 emod_id: 32
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_pit_02 emod_id: 33
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_pit_03 emod_id: 34
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_pit_04 emod_id: 35
+24.11.2023 02:45 (Collisions) | flags: 0000000a name: coll_pit_07 emod_id: 38
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_QBR_piece_01 emod_id: 40
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_QBR_piece_02 emod_id: 41
+24.11.2023 02:45 (Collisions) | flags: 00000e2a name: coll_QBR_railings emod_id: 42
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_QBR_upper emod_id: 43
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_QBR_upper_2 emod_id: 44
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_refinery_roof emod_id: 45
+24.11.2023 02:45 (Collisions) | flags: 00000e6a name: coll_small_bridge_fence emod_id: 46
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_stairs emod_id: 47
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_tunnel_by_machine_room emod_id: 48
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_upper_hive emod_id: 49
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_upper_hive_2 emod_id: 50
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_upper_hive_3 emod_id: 51
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_upper_mines emod_id: 52
+24.11.2023 02:45 (Collisions) | flags: 0000002a name: coll_upper_mines_02 emod_id: 53
+24.11.2023 02:45 (Collisions) | flags: 00000e6a name: coll_wall_fence emod_id: 54
+24.11.2023 02:45 (Collisions) | flags: 00000005 name: Vis_Refinery_Main emod_id: 502
+24.11.2023 02:45 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 02:45 (RSCF_Parse_Enviroment) | g_emod_count = 503 t_m = 6412
+24.11.2023 02:46 (Init) | Executable Started !
+24.11.2023 02:46 (Materials) | MARE Header: 377 materials in file
+24.11.2023 02:46 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 02:46 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 02:46 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 02:46 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 7a8d9e8 and material hash bcffc508 
+24.11.2023 02:46 (EMOD) | Package name: Refinery
+24.11.2023 02:46 (Collisions) | flags: 00000005 name: Building_vis_block_planes emod_id: 1
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_control_room_garage emod_id: 3
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_hive_railing emod_id: 4
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lift_03 emod_id: 5
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lift_2 emod_id: 6
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive emod_id: 7
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_02 emod_id: 8
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_2 emod_id: 9
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_3 emod_id: 10
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_4 emod_id: 11
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_5 emod_id: 12
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_machine-room-corri01 emod_id: 13
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_machine-room-corri2 emod_id: 14
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_machine-room-corri3 emod_id: 15
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_Machine_room emod_id: 16
+24.11.2023 02:46 (Collisions) | flags: 00000022 name: coll_Machine_room_2 emod_id: 17
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_machine_room_railling emod_id: 18
+24.11.2023 02:46 (Collisions) | flags: 00002e2a name: coll_marine_blocker poly emod_id: 19
+24.11.2023 02:46 (Collisions) | flags: 00006e6a name: coll_marinebridgeblocker emod_id: 20
+24.11.2023 02:46 (Collisions) | flags: 00000028 name: coll_marinestart_mines_01 emod_id: 21
+24.11.2023 02:46 (Collisions) | flags: 00000008 name: coll_marinestart_mines_02 emod_id: 22
+24.11.2023 02:46 (Collisions) | flags: 0000000a name: coll_outbuilding_exterior emod_id: 23
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_outbuilding_fences emod_id: 24
+24.11.2023 02:46 (Collisions) | flags: 00000022 name: coll_outbuilding_interior_01 emod_id: 25
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_02 emod_id: 26
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_03 emod_id: 27
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_04 emod_id: 28
+24.11.2023 02:46 (Collisions) | flags: 0000000a name: coll_outbuilding_interior_06 emod_id: 29
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_Outbuilding_roof_barricade emod_id: 30
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_outbuilding_windowrailings emod_id: 31
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_01 emod_id: 32
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_02 emod_id: 33
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_03 emod_id: 34
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_04 emod_id: 35
+24.11.2023 02:46 (Collisions) | flags: 0000000a name: coll_pit_07 emod_id: 38
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_piece_01 emod_id: 40
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_piece_02 emod_id: 41
+24.11.2023 02:46 (Collisions) | flags: 00000e2a name: coll_QBR_railings emod_id: 42
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_upper emod_id: 43
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_upper_2 emod_id: 44
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_refinery_roof emod_id: 45
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_small_bridge_fence emod_id: 46
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_stairs emod_id: 47
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_tunnel_by_machine_room emod_id: 48
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_hive emod_id: 49
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_hive_2 emod_id: 50
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_hive_3 emod_id: 51
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_mines emod_id: 52
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_mines_02 emod_id: 53
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_wall_fence emod_id: 54
+24.11.2023 02:46 (Collisions) | flags: 00000005 name: Vis_Refinery_Main emod_id: 502
+24.11.2023 02:46 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 02:46 (RSCF_Parse_Enviroment) | g_emod_count = 503 t_m = 6412
+24.11.2023 02:46 (Materials) | MARE Header: 319 materials in file
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7f0730a4 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 9530228b 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 46592604 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 30cdf0 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash e3bd038 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash c0aa2835 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 6ae943b9 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash df018bcf 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash f254296c 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7f2c22b4 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7df491e2 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 4003a50 and material hash fdf6ee6b 
+24.11.2023 02:46 (Model) | Empty model 
+24.11.2023 02:46 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 14 BytesReaden: 28)
+24.11.2023 02:46 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 12 BytesReaden: 28)
+24.11.2023 02:46 (Model) | Empty model 
+24.11.2023 02:46 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8097.SMSG 
+24.11.2023 02:46 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8100.SMSG 
+24.11.2023 02:46 (actor names) | Init hashs
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10069.ENTI)
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10070.ENTI)
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10071.ENTI)
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10072.ENTI)
+24.11.2023 02:46 (Helpers) | Bbox: count: 2688
+24.11.2023 02:46 (Helpers) | Lines: count: 252
+24.11.2023 02:46 (EMOD) | Bbox: count: 503
+24.11.2023 02:46 (Console) | Created !!! 
+24.11.2023 02:46 (Init) | Executable Started !
+24.11.2023 02:46 (Materials) | MARE Header: 377 materials in file
+24.11.2023 02:46 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 02:46 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 02:46 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 02:46 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 8bcf970 and material hash ca95b69d 
+24.11.2023 02:46 (EMOD) | Package name: Refinery
+24.11.2023 02:46 (Collisions) | flags: 00000005 name: Building_vis_block_planes emod_id: 1
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_control_room_garage emod_id: 3
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_hive_railing emod_id: 4
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lift_03 emod_id: 5
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lift_2 emod_id: 6
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive emod_id: 7
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_02 emod_id: 8
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_2 emod_id: 9
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_3 emod_id: 10
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_4 emod_id: 11
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_lower_hive_5 emod_id: 12
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_machine-room-corri01 emod_id: 13
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_machine-room-corri2 emod_id: 14
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_machine-room-corri3 emod_id: 15
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_Machine_room emod_id: 16
+24.11.2023 02:46 (Collisions) | flags: 00000022 name: coll_Machine_room_2 emod_id: 17
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_machine_room_railling emod_id: 18
+24.11.2023 02:46 (Collisions) | flags: 00002e2a name: coll_marine_blocker poly emod_id: 19
+24.11.2023 02:46 (Collisions) | flags: 00006e6a name: coll_marinebridgeblocker emod_id: 20
+24.11.2023 02:46 (Collisions) | flags: 00000028 name: coll_marinestart_mines_01 emod_id: 21
+24.11.2023 02:46 (Collisions) | flags: 00000008 name: coll_marinestart_mines_02 emod_id: 22
+24.11.2023 02:46 (Collisions) | flags: 0000000a name: coll_outbuilding_exterior emod_id: 23
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_outbuilding_fences emod_id: 24
+24.11.2023 02:46 (Collisions) | flags: 00000022 name: coll_outbuilding_interior_01 emod_id: 25
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_02 emod_id: 26
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_03 emod_id: 27
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_04 emod_id: 28
+24.11.2023 02:46 (Collisions) | flags: 0000000a name: coll_outbuilding_interior_06 emod_id: 29
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_Outbuilding_roof_barricade emod_id: 30
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_outbuilding_windowrailings emod_id: 31
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_01 emod_id: 32
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_02 emod_id: 33
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_03 emod_id: 34
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_pit_04 emod_id: 35
+24.11.2023 02:46 (Collisions) | flags: 0000000a name: coll_pit_07 emod_id: 38
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_piece_01 emod_id: 40
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_piece_02 emod_id: 41
+24.11.2023 02:46 (Collisions) | flags: 00000e2a name: coll_QBR_railings emod_id: 42
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_upper emod_id: 43
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_QBR_upper_2 emod_id: 44
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_refinery_roof emod_id: 45
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_small_bridge_fence emod_id: 46
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_stairs emod_id: 47
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_tunnel_by_machine_room emod_id: 48
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_hive emod_id: 49
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_hive_2 emod_id: 50
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_hive_3 emod_id: 51
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_mines emod_id: 52
+24.11.2023 02:46 (Collisions) | flags: 0000002a name: coll_upper_mines_02 emod_id: 53
+24.11.2023 02:46 (Collisions) | flags: 00000e6a name: coll_wall_fence emod_id: 54
+24.11.2023 02:46 (Collisions) | flags: 00000005 name: Vis_Refinery_Main emod_id: 502
+24.11.2023 02:46 (load_PHEN_chunk) | amount volumes 501 
+24.11.2023 02:46 (load_PHEN_chunk) | amount vertexes 309166 
+24.11.2023 02:46 (load_PHEN_chunk) | amount indexes 357729 
+24.11.2023 02:46 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 02:46 (RSCF_Parse_Enviroment) | g_emod_count = 503 t_m = 6412
+24.11.2023 02:46 (Materials) | MARE Header: 319 materials in file
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7f0730a4 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 9530228b 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 46592604 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 30cdf0 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash e3bd038 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash c0aa2835 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 6ae943b9 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash df018bcf 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash f254296c 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7f2c22b4 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 0 and material hash 7df491e2 
+24.11.2023 02:46 (Materials) | Not found match with texture hash 14b54008 and material hash e49caba7 
+24.11.2023 02:46 (Model) | Empty model 
+24.11.2023 02:46 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 14 BytesReaden: 28)
+24.11.2023 02:46 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 12 BytesReaden: 28)
+24.11.2023 02:46 (Model) | Empty model 
+24.11.2023 02:46 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8097.SMSG 
+24.11.2023 02:46 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8100.SMSG 
+24.11.2023 02:46 (actor names) | Init hashs
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10069.ENTI)
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10070.ENTI)
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10071.ENTI)
+24.11.2023 02:46 (ENTI) | Trying load 147 spawn_property (10072.ENTI)
+24.11.2023 02:46 (Helpers) | Bbox: count: 2688
+24.11.2023 02:46 (Helpers) | Lines: count: 252
+24.11.2023 02:46 (EMOD) | Bbox: count: 503
+24.11.2023 02:46 (Console) | Created !!! 
+24.11.2023 02:47 (Dump_map) | MARE Header: 377 materials in file
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 02:47 (Dump_map) | CopyFile Error: 2 (E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\Refinery\graphics\environments\refinery\nt_garage_small_room_wall_refinery_ver_diffusel.tg24.11.2023 02:47 (Dump_map) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 02:47 (Dump_map) | Not found match with texture hash 145b1128 and material hash 469ca00e 
+24.11.2023 02:47 (Dump_map) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 02:47 (Map_dump) | exporting done !!! 
+24.11.2023 03:19 (Init) | Executable Started !
+24.11.2023 03:19 (Materials) | MARE Header: 377 materials in file
+24.11.2023 03:19 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 03:19 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 03:19 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 03:19 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 03:19 (Materials) | Not found match with texture hash c900c0 and material hash 631e6886 
+24.11.2023 03:19 (EMOD) | Package name: Refinery
+24.11.2023 03:19 (Collisions) | flags: 00000005 name: Building_vis_block_planes emod_id: 1
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_control_room_garage emod_id: 3
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_hive_railing emod_id: 4
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lift_03 emod_id: 5
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lift_2 emod_id: 6
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive emod_id: 7
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_02 emod_id: 8
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_2 emod_id: 9
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_3 emod_id: 10
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_4 emod_id: 11
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_5 emod_id: 12
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_machine-room-corri01 emod_id: 13
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_machine-room-corri2 emod_id: 14
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_machine-room-corri3 emod_id: 15
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_Machine_room emod_id: 16
+24.11.2023 03:19 (Collisions) | flags: 00000022 name: coll_Machine_room_2 emod_id: 17
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_machine_room_railling emod_id: 18
+24.11.2023 03:19 (Collisions) | flags: 00002e2a name: coll_marine_blocker poly emod_id: 19
+24.11.2023 03:19 (Collisions) | flags: 00006e6a name: coll_marinebridgeblocker emod_id: 20
+24.11.2023 03:19 (Collisions) | flags: 00000028 name: coll_marinestart_mines_01 emod_id: 21
+24.11.2023 03:19 (Collisions) | flags: 00000008 name: coll_marinestart_mines_02 emod_id: 22
+24.11.2023 03:19 (Collisions) | flags: 0000000a name: coll_outbuilding_exterior emod_id: 23
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_outbuilding_fences emod_id: 24
+24.11.2023 03:19 (Collisions) | flags: 00000022 name: coll_outbuilding_interior_01 emod_id: 25
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_02 emod_id: 26
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_03 emod_id: 27
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_04 emod_id: 28
+24.11.2023 03:19 (Collisions) | flags: 0000000a name: coll_outbuilding_interior_06 emod_id: 29
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_Outbuilding_roof_barricade emod_id: 30
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_outbuilding_windowrailings emod_id: 31
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_01 emod_id: 32
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_02 emod_id: 33
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_03 emod_id: 34
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_04 emod_id: 35
+24.11.2023 03:19 (Collisions) | flags: 0000000a name: coll_pit_07 emod_id: 38
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_piece_01 emod_id: 40
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_piece_02 emod_id: 41
+24.11.2023 03:19 (Collisions) | flags: 00000e2a name: coll_QBR_railings emod_id: 42
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_upper emod_id: 43
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_upper_2 emod_id: 44
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_refinery_roof emod_id: 45
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_small_bridge_fence emod_id: 46
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_stairs emod_id: 47
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_tunnel_by_machine_room emod_id: 48
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_hive emod_id: 49
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_hive_2 emod_id: 50
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_hive_3 emod_id: 51
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_mines emod_id: 52
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_mines_02 emod_id: 53
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_wall_fence emod_id: 54
+24.11.2023 03:19 (Collisions) | flags: 00000005 name: Vis_Refinery_Main emod_id: 502
+24.11.2023 03:19 (load_PHEN_chunk) | amount volumes 501 
+24.11.2023 03:19 (load_PHEN_chunk) | amount vertexes 309166 
+24.11.2023 03:19 (load_PHEN_chunk) | amount indexes 357729 
+24.11.2023 03:19 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 03:19 (RSCF_Parse_Enviroment) | g_emod_count = 503 t_m = 6412
+24.11.2023 03:19 (Init) | Executable Started !
+24.11.2023 03:19 (Materials) | MARE Header: 377 materials in file
+24.11.2023 03:19 (Materials) | Not found match with texture hash 92e4e74b and material hash 3b49a449 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 43d06e6d and material hash 3d9e3abb 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 6254768f and material hash d47e630e 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 864d4640 and material hash abce3ba8 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 850876a1 and material hash 34f363f2 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 1fb6d027 and material hash cfb369a6 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 18078bcd and material hash ce4e6f79 
+24.11.2023 03:19 (Materials) | Not found match with texture hash bf23e87f and material hash 61dcc9cd 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 1f689e8f 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 5c13d641 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 4a158313 and material hash c5b08663 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 7fe383c3 
+24.11.2023 03:19 (Materials) | Not found match with texture hash e2fde625 and material hash 882cdcba 
+24.11.2023 03:19 (Materials) | Not found match with texture hash e0ff288c and material hash 5949a3bc 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 9be93d0d and material hash 31f030c 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 142c2480 and material hash 5bd3237a 
+24.11.2023 03:19 (EMOD) | Package name: Refinery
+24.11.2023 03:19 (Collisions) | flags: 00000005 name: Building_vis_block_planes emod_id: 1
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_control_room_garage emod_id: 3
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_hive_railing emod_id: 4
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lift_03 emod_id: 5
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lift_2 emod_id: 6
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive emod_id: 7
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_02 emod_id: 8
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_2 emod_id: 9
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_3 emod_id: 10
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_4 emod_id: 11
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_lower_hive_5 emod_id: 12
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_machine-room-corri01 emod_id: 13
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_machine-room-corri2 emod_id: 14
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_machine-room-corri3 emod_id: 15
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_Machine_room emod_id: 16
+24.11.2023 03:19 (Collisions) | flags: 00000022 name: coll_Machine_room_2 emod_id: 17
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_machine_room_railling emod_id: 18
+24.11.2023 03:19 (Collisions) | flags: 00002e2a name: coll_marine_blocker poly emod_id: 19
+24.11.2023 03:19 (Collisions) | flags: 00006e6a name: coll_marinebridgeblocker emod_id: 20
+24.11.2023 03:19 (Collisions) | flags: 00000028 name: coll_marinestart_mines_01 emod_id: 21
+24.11.2023 03:19 (Collisions) | flags: 00000008 name: coll_marinestart_mines_02 emod_id: 22
+24.11.2023 03:19 (Collisions) | flags: 0000000a name: coll_outbuilding_exterior emod_id: 23
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_outbuilding_fences emod_id: 24
+24.11.2023 03:19 (Collisions) | flags: 00000022 name: coll_outbuilding_interior_01 emod_id: 25
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_02 emod_id: 26
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_03 emod_id: 27
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_outbuilding_interior_04 emod_id: 28
+24.11.2023 03:19 (Collisions) | flags: 0000000a name: coll_outbuilding_interior_06 emod_id: 29
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_Outbuilding_roof_barricade emod_id: 30
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_outbuilding_windowrailings emod_id: 31
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_01 emod_id: 32
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_02 emod_id: 33
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_03 emod_id: 34
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_pit_04 emod_id: 35
+24.11.2023 03:19 (Collisions) | flags: 0000000a name: coll_pit_07 emod_id: 38
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_piece_01 emod_id: 40
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_piece_02 emod_id: 41
+24.11.2023 03:19 (Collisions) | flags: 00000e2a name: coll_QBR_railings emod_id: 42
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_upper emod_id: 43
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_QBR_upper_2 emod_id: 44
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_refinery_roof emod_id: 45
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_small_bridge_fence emod_id: 46
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_stairs emod_id: 47
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_tunnel_by_machine_room emod_id: 48
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_hive emod_id: 49
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_hive_2 emod_id: 50
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_hive_3 emod_id: 51
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_mines emod_id: 52
+24.11.2023 03:19 (Collisions) | flags: 0000002a name: coll_upper_mines_02 emod_id: 53
+24.11.2023 03:19 (Collisions) | flags: 00000e6a name: coll_wall_fence emod_id: 54
+24.11.2023 03:19 (Collisions) | flags: 00000005 name: Vis_Refinery_Main emod_id: 502
+24.11.2023 03:19 (load_PHEN_chunk) | amount volumes 501 
+24.11.2023 03:19 (load_PHEN_chunk) | amount vertexes 309166 
+24.11.2023 03:19 (load_PHEN_chunk) | amount indexes 357729 
+24.11.2023 03:19 (RSCF_Parse_Enviroment) | env_header: total_meshes: 6412 total_indexes: 1522032 total_vertexes: 720157
+24.11.2023 03:19 (RSCF_Parse_Enviroment) | g_emod_count = 503 t_m = 6412
+24.11.2023 03:19 (Materials) | MARE Header: 319 materials in file
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 7f0730a4 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 9530228b 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 46592604 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 30cdf0 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash e3bd038 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash c0aa2835 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 6ae943b9 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash df018bcf 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash f254296c 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 7f2c22b4 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 0 and material hash 7df491e2 
+24.11.2023 03:19 (Materials) | Not found match with texture hash 146c3d88 and material hash fada05f4 
+24.11.2023 03:19 (Model) | Empty model 
+24.11.2023 03:19 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 14 BytesReaden: 28)
+24.11.2023 03:19 (Models) | Opening file Error: BAD_HEADER (HEADER: 46435352 Type 12 BytesReaden: 28)
+24.11.2023 03:19 (Model) | Empty model 
+24.11.2023 03:19 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8097.SMSG 
+24.11.2023 03:19 (SMSG) | Trying load E:\Model Workspace 2\Aliens vs Predator\_MapViewer\Envs\Refinery\P03_Refinery\SMSG_chunk\8100.SMSG 
+24.11.2023 03:19 (actor names) | Init hashs
+24.11.2023 03:19 (ENTI) | Trying load 147 spawn_property (10069.ENTI)
+24.11.2023 03:19 (ENTI) | Trying load 147 spawn_property (10070.ENTI)
+24.11.2023 03:19 (ENTI) | Trying load 147 spawn_property (10071.ENTI)
+24.11.2023 03:19 (ENTI) | Trying load 147 spawn_property (10072.ENTI)
+24.11.2023 03:20 (Helpers) | Bbox: count: 2688
+24.11.2023 03:20 (Helpers) | Lines: count: 252
+24.11.2023 03:20 (EMOD) | Bbox: count: 503
+24.11.2023 03:20 (Console) | Created !!! 
+24.11.2023 03:24 (Init) | Executable Started !
+24.11.2023 03:24 (Init) | Failed to initialise D3D11.
