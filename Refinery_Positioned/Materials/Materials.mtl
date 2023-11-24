@@ -1,0 +1,3883 @@
+newmtl material_375425e8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_375425e8\nt_lift_shaft_structure02_diffuse.dds 
+map_Bump Materials\material_375425e8\nt_lift_shaft_structure02_normal.dds 
+ 
+map_d Materials\material_375425e8\nt_lift_shaft_structure02_alpha.dds 
+ 
+newmtl material_366b94f1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_366b94f1\ajs_int_stairs_floor_dirty_col.dds 
+map_Bump Materials\material_366b94f1\ajs_int_stairs_floor_norm.dds 
+ 
+newmtl material_312471f9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_312471f9\nt_barbwire_diffuse.dds 
+map_Bump Materials\material_312471f9\nt_barbwire_normal.dds 
+ 
+map_d Materials\material_312471f9\nt_barbwire_alpha.dds 
+ 
+newmtl material_2e4a184d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2e4a184d\nt_refinery_building_diffuse01 .dds 
+map_Bump Materials\material_2e4a184d\nt_refinery_building_normal .dds 
+ 
+newmtl material_f06809b8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f06809b8\nt_vehicle_cor_02_diffuse.dds 
+map_Bump Materials\material_f06809b8\nt_vehicle_cor_02_normal.dds 
+ 
+newmtl material_963cb64b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_963cb64b\sdr_colony_junk2_col.dds 
+map_Bump Materials\material_963cb64b\sdr_colony_junk2_norm.dds 
+ 
+map_d Materials\material_963cb64b\sdr_colony_junk2_col.dds 
+ 
+newmtl material_002eaeec 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_002eaeec\coll.dds 
+newmtl material_11971870 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_11971870\design_floor_4x4_panels.dds 
+map_Bump Materials\material_11971870\design_floor_4x4_panels_norm.dds 
+ 
+newmtl material_78603915 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_78603915\ajs_concrete_slab.dds 
+map_Bump Materials\material_78603915\ajs_concrete_slab_norm.dds 
+ 
+newmtl material_3b49a449 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_3d9e3abb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_8e990d35 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8e990d35\nt_ceiling_tiles_dirty_diffuse.dds 
+map_Bump Materials\material_8e990d35\wz_stencil_04_1024_norm.dds 
+ 
+newmtl material_db04972d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_db04972d\wz_metalfloorplate_01_rustedup.dds 
+map_Bump Materials\material_db04972d\wz_metalfloorplate_01_normal.dds 
+ 
+newmtl material_d47e630e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_3e4cf28d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3e4cf28d\ajs_ext_roof_col_2.dds 
+map_Bump Materials\material_3e4cf28d\ajs_ext_roof_norml.dds 
+ 
+newmtl material_8b2ecf6b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8b2ecf6b\ajs_ext_panle_col_dark.dds 
+map_Bump Materials\material_8b2ecf6b\ajs_ext_panel_norm.dds 
+ 
+newmtl material_3015e9ca 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3015e9ca\rc_razor_wire_col.dds 
+map_Bump Materials\material_3015e9ca\rc_razor_wire_norm.dds 
+ 
+map_d Materials\material_3015e9ca\rc_razor_wire_opa.dds 
+ 
+newmtl material_abce3ba8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_34f363f2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_cfb369a7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_cfb369a7\wz_edgethings_02_col.dds 
+map_Bump Materials\material_cfb369a7\wz_edgethings_02_norm.dds 
+ 
+newmtl material_cfb369a6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_baccd965 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_baccd965\wz_panelwork_basic_col.dds 
+map_Bump Materials\material_baccd965\wz_mesh_nmap.dds 
+ 
+map_d Materials\material_baccd965\wz_mesh_tmap.dds 
+ 
+newmtl material_153a5cfd 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_153a5cfd\ld_hive_general_gunk_col.dds 
+map_Bump Materials\material_153a5cfd\ld_hive_general_gunk_norm.dds 
+ 
+newmtl material_e0e70de2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e0e70de2\nt_bridge01_diffuse.dds 
+map_Bump Materials\material_e0e70de2\nt_bridge01_normal.dds 
+ 
+newmtl material_b16bf210 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b16bf210\mo_cliffs_03_diffuse.dds 
+map_Bump Materials\material_b16bf210\mo_cliffs_03_normal.dds 
+ 
+newmtl material_02a43f1a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_02a43f1a\ajs_int_coridor_roof_col.dds 
+map_Bump Materials\material_02a43f1a\ajs_int_coridor_roof_norm.dds 
+ 
+map_d Materials\material_02a43f1a\ajs_int_coridor_roof_trans.dds 
+ 
+newmtl material_ce4e6f79 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_fad53678 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fad53678\nt_tunnel_floor_main.dds 
+map_Bump Materials\material_fad53678\nt_tunnel_floor_main_normal.dds 
+ 
+newmtl material_6840175e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6840175e\ajs_int_large_coridor_floor_plate_col.dds 
+map_Bump Materials\material_6840175e\ajs_int_large_coridor_floor_plate_norm.dds 
+ 
+newmtl material_bb604720 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bb604720\ms_pillar_b_col.dds 
+map_Bump Materials\material_bb604720\ms_pillar_b_norm.dds 
+ 
+newmtl material_6cd91092 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6cd91092\rc_red_rock_large_2_col.dds 
+map_Bump Materials\material_6cd91092\rc_red_rock_large_2_norm.dds 
+ 
+newmtl material_6cd91091 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6cd91091\rc_red_rock_large_1_col.dds 
+map_Bump Materials\material_6cd91091\rc_red_rock_large_1_norm.dds 
+ 
+newmtl material_283974eb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_283974eb\sdr_ext_dirt_col.dds 
+map_Bump Materials\material_283974eb\sdr_ext_dirt_norm.dds 
+ 
+newmtl material_6965a512 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6965a512\design_floor_4x4_checkerboard.dds 
+map_Bump Materials\material_6965a512\design_floor_4x4_rock_norm.dds 
+ 
+newmtl material_0693b6e7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0693b6e7\basic_wall_diffuse.dds 
+map_Bump Materials\material_0693b6e7\basic_wall_normal.dds 
+ 
+newmtl material_b6039d59 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b6039d59\cp_refinery_01_coll.dds 
+map_Bump Materials\material_b6039d59\cp_refinery_01_norm.dds 
+ 
+map_d Materials\material_b6039d59\cp_refinery_01_alpha.dds 
+ 
+newmtl material_74058248 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_74058248\ajs_ext_wall_panel_col_dark.dds 
+map_Bump Materials\material_74058248\ajs_ext_wall_panel_norm.dds 
+ 
+newmtl material_6ff1d94f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6ff1d94f\ajs_ext_corner_slopes_col.dds 
+map_Bump Materials\material_6ff1d94f\ajs_ext_corner_slopes_norm.dds 
+ 
+newmtl material_ca64ae16 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ca64ae16\ajs_ext_under_side_col.dds 
+map_Bump Materials\material_ca64ae16\ajs_ext_under_side_norm.dds 
+ 
+newmtl material_c80cf6b3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c80cf6b3\ajs_ext_edging_pieces_col.dds 
+map_Bump Materials\material_c80cf6b3\ajs_ext_edging_pieces_norm.dds 
+ 
+newmtl material_c6cf9080 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c6cf9080\pja_dist_builds_2.dds 
+map_Bump Materials\material_c6cf9080\pja_dist_builds_2_n.dds 
+ 
+map_d Materials\material_c6cf9080\pja_dist_builds_2.dds 
+ 
+newmtl material_82104d51 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_82104d51\sdr_generic_concrete_col.dds 
+map_Bump Materials\material_82104d51\sdr_generic_concrete_norm.dds 
+ 
+newmtl material_54fbf55b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_54fbf55b\aj_floor_panle_col.dds 
+map_Bump Materials\material_54fbf55b\aj_floor_panle_norm.dds 
+ 
+newmtl material_61ad93d7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_61ad93d7\pja_dist_builds_2.dds 
+map_Bump Materials\material_61ad93d7\pja_dist_builds_2_n.dds 
+ 
+map_d Materials\material_61ad93d7\pja_dist_builds_2.dds 
+ 
+newmtl material_61dcc9cd 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_1720c846 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1720c846\ajs_ext_bits and bobs_col.dds 
+map_Bump Materials\material_1720c846\ajs_ext_bits and bobs_norm.dds 
+ 
+newmtl material_1979d7cc 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1979d7cc\design_floor_4x4_rock2.dds 
+map_Bump Materials\material_1979d7cc\design_floor_4x4_rock2_norm.dds 
+ 
+newmtl material_3e4d4f10 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3e4d4f10\ajs_ext_side_col.dds 
+map_Bump Materials\material_3e4d4f10\ajs_ext_side_norm.dds 
+ 
+newmtl material_5776feb5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5776feb5\ajs_ext_corigated_plate_2_col.dds 
+map_Bump Materials\material_5776feb5\ajs_ext_corigated_plate_2_norm.dds 
+ 
+newmtl material_5776feb4 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5776feb4\ajs_ext_corigated_plate_col.dds 
+map_Bump Materials\material_5776feb4\ajs_ext_corigated_plate_norm.dds 
+ 
+newmtl material_11017388 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_11017388\pja_dist_builds_wall.dds 
+map_Bump Materials\material_11017388\pja_dist_builds_wall_norm.dds 
+ 
+newmtl material_61ad93d6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_61ad93d6\pja_dist_builds_1.dds 
+map_Bump Materials\material_61ad93d6\pja_dist_builds_1_norm.dds 
+ 
+newmtl material_44ef11a7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_44ef11a7\wz_metalfloorplate_01_cmap.dds 
+map_Bump Materials\material_44ef11a7\wz_metalfloorplate_01_nmap.dds 
+ 
+newmtl material_2467b927 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2467b927\ajs_ext_concrete_blocks_col.dds 
+map_Bump Materials\material_2467b927\ajs_ext_concrete_blocks_norm.dds 
+ 
+newmtl material_54553d40 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_54553d40\pillar_color copy.dds 
+map_Bump Materials\material_54553d40\pillars_normal copy.dds 
+ 
+newmtl material_2e4a184e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2e4a184e\nt_refinery_building_diffuse02 .dds 
+map_Bump Materials\material_2e4a184e\nt_refinery_building_normal02 .dds 
+ 
+newmtl material_ef23af8d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ef23af8d\ajs_int_new_vent_roof_col.dds 
+map_Bump Materials\material_ef23af8d\ajs_int_new_vent_roof_norm.dds 
+ 
+newmtl material_c7ed3f29 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c7ed3f29\nt_control_room_diffuse.dds 
+map_Bump Materials\material_c7ed3f29\nt_control_room_normal.dds 
+ 
+newmtl material_f4933b66 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f4933b66\nt_machine_room_floor02_diffuse.dds 
+map_Bump Materials\material_f4933b66\nt_machine_room_floor02_normal.dds 
+ 
+newmtl material_88fd5c54 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_88fd5c54\nt_qbr_pillar_diffuse.dds 
+map_Bump Materials\material_88fd5c54\nt_qbr_pillar_normal.dds 
+ 
+newmtl material_bd9a71b6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bd9a71b6\nt_garage_wall_diffuse.dds 
+map_Bump Materials\material_bd9a71b6\nt_garage_wall_normal.dds 
+ 
+newmtl material_ba7414b3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ba7414b3\nt_hive_duct_diffuse.dds 
+map_Bump Materials\material_ba7414b3\nt_hive_duct_normal.dds 
+ 
+newmtl material_12a2bf12 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_12a2bf12\nt_mesh_fence_diffuse.dds 
+map_Bump Materials\material_12a2bf12\nt_wiremesh_hexagonal_normal.dds 
+ 
+map_d Materials\material_12a2bf12\nt_wiremesh_hexagonal_opacity.dds 
+ 
+newmtl material_e0e70de3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e0e70de3\nt_bridge02_diffuse.dds 
+map_Bump Materials\material_e0e70de3\nt_bridge02_normal.dds 
+ 
+newmtl material_7c234a46 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7c234a46\nt_troom_texture06_diffuse.dds 
+map_Bump Materials\material_7c234a46\ajs_ext_panel_norm.dds 
+ 
+newmtl material_f06809b7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f06809b7\nt_vehicle_cor_01_diffuse.dds 
+map_Bump Materials\material_f06809b7\nt_vehicle_cor_01_normal.dds 
+ 
+newmtl material_9d2c3fda 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9d2c3fda\mines_pipework_diffuse.dds 
+map_Bump Materials\material_9d2c3fda\mines_pipework_normal.dds 
+ 
+newmtl material_f3a6c1f3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f3a6c1f3\nt_qbr_basement_wall03_diffuse.dds 
+map_Bump Materials\material_f3a6c1f3\nt_qbr_basement_wall03_normal.dds 
+ 
+newmtl material_ff96725f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ff96725f\nt_garage_platform_diffuse.dds 
+map_Bump Materials\material_ff96725f\nt_garage_platform_normal.dds 
+ 
+newmtl material_7c234a44 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7c234a44\nt_troom_texture04_diffuse.dds 
+map_Bump Materials\material_7c234a44\nt_troom_texture04_normal.dds 
+ 
+newmtl material_c96d1271 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c96d1271\ajs_int_grill_and_pipes_col.dds 
+map_Bump Materials\material_c96d1271\ajs_int_grill_and_pipes_norm.dds 
+ 
+newmtl material_2b797265 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2b797265\aj_int_floor_basic_bumps_dark_col.dds 
+map_Bump Materials\material_2b797265\aj_int_floor_basic_bumps_norm.dds 
+ 
+newmtl material_3b1eb2c1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3b1eb2c1\nt_window_bars_color_rusted.dds 
+map_Bump Materials\material_3b1eb2c1\ld_mo_window_bars_norm.dds 
+ 
+map_d Materials\material_3b1eb2c1\ld_mo_window_bars_transp2.dds 
+ 
+newmtl material_8e29b05e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8e29b05e\tex_acid_tiling_col.dds 
+map_Bump Materials\material_8e29b05e\tex_acid_tiling_nmap.dds 
+ 
+newmtl material_320a05e5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_320a05e5\nt_garage_floor_decals_diffuse.dds 
+map_d Materials\material_320a05e5\nt_garage_floor_decals_diffuse.dds 
+ 
+newmtl material_9e96394b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9e96394b\ajs_int_bigroom_post_and_stips_col.dds 
+map_Bump Materials\material_9e96394b\ajs_int_bigroom_post_and_stips_norm.dds 
+ 
+newmtl material_68e1e6b3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_68e1e6b3\nt_lift_shaft_structure02_diffuse.dds 
+map_Bump Materials\material_68e1e6b3\nt_lift_shaft_structure02_normal.dds 
+ 
+map_d Materials\material_68e1e6b3\nt_lift_shaft_structure02_alpha.dds 
+ 
+newmtl material_568cc7b0 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_568cc7b0\nt_tunnel_vent_base_diffuse.dds 
+map_Bump Materials\material_568cc7b0\nt_tunnel_vent_base_normal.dds 
+ 
+newmtl material_6da0a40b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6da0a40b\nt_mine_gate_diffuse.dds 
+map_Bump Materials\material_6da0a40b\nt_mine_gate_normal.dds 
+ 
+map_d Materials\material_6da0a40b\nt_mine_gate_alpha.dds 
+ 
+newmtl material_4fa6c579 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4fa6c579\nt_qbr_basement_grill01_diffuse.dds 
+map_Bump Materials\material_4fa6c579\nt_qbr_basement_grill01_normal.dds 
+ 
+map_d Materials\material_4fa6c579\nt_qbr_basement_grill01_opacity.dds 
+ 
+newmtl material_9f9dab2d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9f9dab2d\nt_mesh_fence_diffuse.dds 
+map_Bump Materials\material_9f9dab2d\nt_mesh_fence_normal.dds 
+ 
+map_d Materials\material_9f9dab2d\nt_mesh_fence_opacity.dds 
+ 
+newmtl material_5e17fc96 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5e17fc96\nt_vehicle_corridor_floor_diffuse.dds 
+map_Bump Materials\material_5e17fc96\nt_vehicle_corridor_floor_normal.dds 
+ 
+newmtl material_a914948b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_a914948b\ajs_int_stairs_floor_col.dds 
+map_Bump Materials\material_a914948b\ajs_int_stairs_floor_norm.dds 
+ 
+newmtl material_fa8b1abb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fa8b1abb\aj_int_floor_basic_bumps_rusty_col.dds 
+map_Bump Materials\material_fa8b1abb\aj_int_floor_basic_bumps_norm.dds 
+ 
+newmtl material_76a511e4 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_76a511e4\nt_corridor_v_door_diffuse.dds 
+map_Bump Materials\material_76a511e4\nt_corridor_v_door_normal.dds 
+ 
+newmtl material_454e5417 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_454e5417\nt_lift_metal_generic_diffuse.dds 
+map_Bump Materials\material_454e5417\nt_lift_metal_generic_normal.dds 
+ 
+newmtl material_f3a6c1f1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f3a6c1f1\nt_qbr_basement_wall01_diffuse.dds 
+map_Bump Materials\material_f3a6c1f1\nt_qbr_basement_wall01_normal.dds 
+ 
+newmtl material_7c234a42 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7c234a42\nt_troom_texture02_diffuse.dds 
+map_Bump Materials\material_7c234a42\nt_troom_texture02_normal.dds 
+ 
+newmtl material_ef9a2a40 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ef9a2a40\nt_control_room_corridor_diffuse.dds 
+map_Bump Materials\material_ef9a2a40\nt_control_room_corridor_normal.dds 
+ 
+newmtl material_df729f23 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_df729f23\nt_qbr_basement_floor_diffuse.dds 
+map_Bump Materials\material_df729f23\nt_qbr_basement_floor_sides_normal.dds 
+ 
+newmtl material_2e3164de 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2e3164de\nt_qbr_basement_wall01_diffuse.dds 
+map_Bump Materials\material_2e3164de\nt_qbr_basement_wall01_normal.dds 
+ 
+newmtl material_f06809b9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f06809b9\nt_vehicle_cor_03_diffuse.dds 
+map_Bump Materials\material_f06809b9\nt_vehicle_cor_03_normal.dds 
+ 
+newmtl material_9b1bab06 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9b1bab06\nt_c_corridor_ceilingpanel_diffuse.dds 
+map_Bump Materials\material_9b1bab06\nt_c_corridor_ceilingpanel_normal.dds 
+ 
+newmtl material_8d014711 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8d014711\nt_qbr_wallpanel_diffuse.dds 
+map_Bump Materials\material_8d014711\nt_qbr_wallpanel_normal.dds 
+ 
+newmtl material_2407d0d7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2407d0d7\c_corridor_floorpanel_diffuse.dds 
+map_Bump Materials\material_2407d0d7\nt_c_corridor_floorpanel_normal.dds 
+ 
+newmtl material_e90e461a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e90e461a\nt_qbr_mini_rooms_01_diffuse.dds 
+map_Bump Materials\material_e90e461a\nt_qbr_mini_rooms_01_normal.dds 
+ 
+newmtl material_3c060e07 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3c060e07\nt_qbr_basement_grill01_diffuse_red.dds 
+map_Bump Materials\material_3c060e07\nt_qbr_basement_grill01_normal.dds 
+ 
+map_d Materials\material_3c060e07\nt_qbr_basement_grill01_opacity.dds 
+ 
+newmtl material_f3a6c1f2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f3a6c1f2\nt_qbr_basement_wall02_diffuse.dds 
+map_Bump Materials\material_f3a6c1f2\nt_qbr_basement_wall02_normal.dds 
+ 
+newmtl material_fe34d5de 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fe34d5de\amp_dirt_decal_01_col.dds 
+map_Bump Materials\material_fe34d5de\amp_dirt_decal_01_norm.dds 
+ 
+map_d Materials\material_fe34d5de\amp_dirt_decal_01_trans.dds 
+ 
+newmtl material_84214478 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_84214478\sdr_sewer_flaps_col.dds 
+map_Bump Materials\material_84214478\sdr_sewer_flaps_norm.dds 
+ 
+map_d Materials\material_84214478\sdr_sewer_flaps_col.dds 
+ 
+newmtl material_0d09e63c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0d09e63c\kd_bark02_col.dds 
+map_Bump Materials\material_0d09e63c\kd_bark02_norm.dds 
+ 
+newmtl material_4246f3da 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4246f3da\blood_large.dds 
+map_Bump Materials\material_4246f3da\blood_large_normal.dds 
+ 
+map_d Materials\material_4246f3da\blood_large.dds 
+ 
+newmtl material_6eed4df1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6eed4df1\nt_lift_shaft_genericmetal.dds 
+map_Bump Materials\material_6eed4df1\nt_lift_shaft_genericmetal_normal.dds 
+ 
+newmtl material_463eda92 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_463eda92\sr_colony_sewers_pipes_col.dds 
+map_Bump Materials\material_463eda92\sr_colony_sewers_pipes_norm.dds 
+ 
+newmtl material_1f689e8f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_1f48f9d3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1f48f9d3\wz_crawlspace_03_col.dds 
+map_Bump Materials\material_1f48f9d3\wz_crawlspace_03_norm.dds 
+ 
+newmtl material_c8ebbd23 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c8ebbd23\wz_plate_13_col.dds 
+map_Bump Materials\material_c8ebbd23\plate_13_variant_4_norm.dds 
+ 
+newmtl material_1f46e8dd 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1f46e8dd\wz_plate_13_col.dds 
+map_Bump Materials\material_1f46e8dd\plate_13_variant_4_norm.dds 
+ 
+newmtl material_bd063453 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bd063453\wz_panelwork_basic_col.dds 
+map_Bump Materials\material_bd063453\wz_panelwork_basic_norm.dds 
+ 
+newmtl material_7c234a45 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7c234a45\nt_troom_texture05_diffuse.dds 
+map_Bump Materials\material_7c234a45\nt_troom_texture05_normal.dds 
+ 
+newmtl material_2e4a184f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2e4a184f\nt_refinery_building_diffuse03 .dds 
+map_Bump Materials\material_2e4a184f\nt_refinery_building_normal03 .dds 
+ 
+newmtl material_455fdd20 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_455fdd20\wz_weylandyutani_col.dds 
+map_d Materials\material_455fdd20\wz_weylandyutani_tran_worn.dds 
+ 
+newmtl material_08b0abd7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_08b0abd7\crane_texture01_diffuse.dds 
+map_Bump Materials\material_08b0abd7\crane_texture01_normal.dds 
+ 
+newmtl material_ec9416b5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ec9416b5\amp_decal_floor_markings_01.dds 
+map_Bump Materials\material_ec9416b5\amp_decal_floor_markings_01_norm.dds 
+ 
+map_d Materials\material_ec9416b5\amp_decal_floor_markings_01.dds 
+ 
+newmtl material_fa3510f6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fa3510f6\amp_decal_signs.dds 
+map_Bump Materials\material_fa3510f6\amp_decal_signs_norm.dds 
+ 
+map_d Materials\material_fa3510f6\amp_decal_signs.dds 
+ 
+newmtl material_dc7c6cd5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_dc7c6cd5\sdr_decals2.dds 
+map_d Materials\material_dc7c6cd5\sdr_decals2.dds 
+ 
+newmtl material_375425e7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_375425e7\nt_lift_shaft_structure01_diffuse.dds 
+map_Bump Materials\material_375425e7\nt_lift_shaft_structure01_normal.dds 
+ 
+newmtl material_7c234a41 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7c234a41\nt_troom_texture01_diffuse.dds 
+map_Bump Materials\material_7c234a41\nt_troom_texture01_normal.dds 
+ 
+newmtl material_35bf0edf 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_35bf0edf\mines_hanging_shaft.dds 
+map_Bump Materials\material_35bf0edf\mines_hanging_shaft_normal.dds 
+ 
+map_d Materials\material_35bf0edf\mines_hanging_shaft_alpha.dds 
+ 
+newmtl material_5db6003c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5db6003c\nt_machine_room_terminal_diffuse.dds 
+map_Bump Materials\material_5db6003c\nt_machine_room_terminal_normal.dds 
+ 
+newmtl material_733b5a71 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_733b5a71\nt_machine_room_fence_diffuse.dds 
+map_Bump Materials\material_733b5a71\nt_machine_room_fence_normal.dds 
+ 
+map_d Materials\material_733b5a71\nt_machine_room_fence_alpha.dds 
+ 
+newmtl material_1da0ef82 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1da0ef82\sdr_decals_col.dds 
+map_d Materials\material_1da0ef82\sdr_decals_col.dds 
+ 
+newmtl material_4246f3d8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4246f3d8\blood_hands_col.dds 
+map_Bump Materials\material_4246f3d8\blood_hands_normal.dds 
+ 
+map_d Materials\material_4246f3d8\blood_hands_col.dds 
+ 
+newmtl material_4246f3d9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4246f3d9\blood_splat_col.dds 
+map_Bump Materials\material_4246f3d9\blood_splat_normal.dds 
+ 
+map_d Materials\material_4246f3d9\blood_splat_col.dds 
+ 
+newmtl material_3008a48b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3008a48b\rc_shelf_objects_col.dds 
+map_Bump Materials\material_3008a48b\rc_shelf_objects_norm.dds 
+ 
+newmtl material_9ce27416 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9ce27416\ajs_alien_pipe_col.dds 
+map_Bump Materials\material_9ce27416\ajs_alien_pipe_norm.dds 
+ 
+newmtl material_5c13d641 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_296468c4 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_296468c4\litter.dds 
+map_d Materials\material_296468c4\litter.dds 
+ 
+newmtl material_7ab3e513 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7ab3e513\nt_vehicle_corridor_floor_sides_diffuse.dds 
+map_Bump Materials\material_7ab3e513\nt_vehicle_corridor_floor_sides_normal.dds 
+ 
+newmtl material_7a7cf5dc 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7a7cf5dc\nt_int_door_frame_alt_diffuse.dds 
+map_Bump Materials\material_7a7cf5dc\ajs_int_door_frame_norm.dds 
+ 
+newmtl material_0c67234c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0c67234c\ajs_int_door_frame_col.dds 
+map_Bump Materials\material_0c67234c\ajs_int_door_frame_norm.dds 
+ 
+newmtl material_3b6c4df6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3b6c4df6\ae_canopy_thin_col.dds 
+map_Bump Materials\material_3b6c4df6\ae_canopy_thick_normal.dds 
+ 
+map_d Materials\material_3b6c4df6\ae_canopy_thin_col.dds 
+ 
+newmtl material_44b6f887 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_44b6f887\nt_oil_splatter_diffuse.dds 
+map_Bump Materials\material_44b6f887\nt_oil_splatter_normal.dds 
+ 
+map_d Materials\material_44b6f887\nt_oil_splatter_diffuse.dds 
+ 
+newmtl material_ccd50160 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ccd50160\ajs_int_vent_col.dds 
+map_Bump Materials\material_ccd50160\ajs_int_vent_norm.dds 
+ 
+newmtl material_84511852 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_84511852\ld_honeycomb_rock_boney_col.dds 
+map_Bump Materials\material_84511852\ld_honeycomb_rock_boney_norm.dds 
+ 
+newmtl material_ccaf5710 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ccaf5710\ajs_int_silver_pipe.dds 
+map_Bump Materials\material_ccaf5710\ajs_int_red_pipe_norm.dds 
+ 
+newmtl material_c5b08663 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_2925e1af 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2925e1af\tex_acid_tiling_col.dds 
+map_Bump Materials\material_2925e1af\tex_acid_tiling_nmap.dds 
+ 
+newmtl material_b9a90e77 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b9a90e77\flat.dds 
+newmtl material_06c6bfa0 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_06c6bfa0\ld_wz_base_metal.dds 
+map_Bump Materials\material_06c6bfa0\wz_scaffold_1_nmap.dds 
+ 
+map_d Materials\material_06c6bfa0\wz_scaffold_1_tmap.dds 
+ 
+newmtl material_bff95d01 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bff95d01\sdr_generic_concrete_mess_col.dds 
+map_Bump Materials\material_bff95d01\sdr_generic_concrete_norm.dds 
+ 
+newmtl material_3131be46 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3131be46\ajs_int_acid_burn_large_col.dds 
+map_Bump Materials\material_3131be46\ajs_int_acid_burn_large_norm.dds 
+ 
+newmtl material_b949877c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b949877c\temp_floor.dds 
+map_Bump Materials\material_b949877c\wz_metalfloorplate_01_nmap.dds 
+ 
+newmtl material_c813c76f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c813c76f\ajs_int_acid_burn_large_col.dds 
+map_Bump Materials\material_c813c76f\ajs_int_acid_burn_large_norm.dds 
+ 
+map_d Materials\material_c813c76f\ajs_int_acid_burn_large_trans_test.dds 
+ 
+newmtl material_75cc4b00 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_75cc4b00\wz_crawlspace_03_col.dds 
+map_Bump Materials\material_75cc4b00\wz_crawlspace_03_norm.dds 
+ 
+newmtl material_14d8452f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_14d8452f\nt_hive_walkway_grate_diffuse.dds 
+map_Bump Materials\material_14d8452f\nt_hive_walkway_grate_normal.dds 
+ 
+newmtl material_fb0e8b8a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fb0e8b8a\sr_colony_sewers_ceiling_col.dds 
+map_Bump Materials\material_fb0e8b8a\sr_colony_sewers_ceiling_norm.dds 
+ 
+newmtl material_1fbb06f3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1fbb06f3\sdr_ext_ceiling_panels_col.dds 
+map_Bump Materials\material_1fbb06f3\sdr_ext_ceiling_panels_norm.dds 
+ 
+newmtl material_4f39a8de 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4f39a8de\nt_qbr_basement_grating_diffuse.dds 
+map_Bump Materials\material_4f39a8de\nt_qbr_basement_grating_normal.dds 
+ 
+newmtl material_b1afd514 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b1afd514\ld_honeycomb_rock_base_col.dds 
+map_Bump Materials\material_b1afd514\ld_honeycomb_rock_base_norm.dds 
+ 
+newmtl material_5f5421ae 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5f5421ae\concrete_wall2.dds 
+map_Bump Materials\material_5f5421ae\concrete_wall2_norm.dds 
+ 
+newmtl material_e5288116 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e5288116\sg_rock_02.dds 
+newmtl material_b67fcd26 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b67fcd26\design_floor_4x4_rock.dds 
+map_Bump Materials\material_b67fcd26\design_floor_4x4_rock_norm.dds 
+ 
+newmtl material_51525515 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_51525515\mo_ld_tarmac_2_cracked_mossy_col.dds 
+map_Bump Materials\material_51525515\mo_ld_tarmac_2_cracked_mossy_normal.dds 
+ 
+newmtl material_337d9e79 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_337d9e79\nt_bridge_clamps_diffuse.dds 
+map_Bump Materials\material_337d9e79\nt_bridge_clamps_normal.dds 
+ 
+newmtl material_84c57d07 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_84c57d07\sg_muddy_ground_02_col.dds 
+map_Bump Materials\material_84c57d07\sg_muddy_ground_02_norm.dds 
+ 
+newmtl material_c9381ad6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c9381ad6\nt_roof_crane_diffuse.dds 
+map_Bump Materials\material_c9381ad6\nt_roof_crane_normal.dds 
+ 
+newmtl material_edb7770c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_edb7770c\nt_roof_crane2_diffuse.dds 
+map_Bump Materials\material_edb7770c\roof_crane_normal2.dds 
+ 
+newmtl material_3e6b2620 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3e6b2620\sdr_ext_signage_col.dds 
+map_d Materials\material_3e6b2620\sdr_ext_signage_col.dds 
+ 
+newmtl material_c9dc470d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c9dc470d\ld_smooth_rock_red_col.dds 
+map_Bump Materials\material_c9dc470d\ld_smooth_rock_red_norm.dds 
+ 
+newmtl material_21fd86be 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_21fd86be\sdr_ext_rubble_col.dds 
+map_Bump Materials\material_21fd86be\sdr_ext_rubble_norm.dds 
+ 
+newmtl material_52039cc1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_52039cc1\rc_red_rock_medium_1_col.dds 
+map_Bump Materials\material_52039cc1\rc_red_rock_medium_1_norm.dds 
+ 
+newmtl material_a8853809 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_a8853809\mo_rc_red_rock_large_moss_1_col.dds 
+map_Bump Materials\material_a8853809\mo_rc_red_rock_large_moss_1_normal.dds 
+ 
+newmtl material_0de51755 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0de51755\ld_backdrop_jungle_refinery_col.dds 
+map_d Materials\material_0de51755\ld_backdrop_jungle_refinery_col.dds 
+ 
+newmtl material_c735ae2f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c735ae2f\nt_tunnel_floor_side.dds 
+map_Bump Materials\material_c735ae2f\nt_tunnel_floor_side_normal.dds 
+ 
+newmtl material_33ae0e23 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_33ae0e23\mo_cliffs_03_diffuse.dds 
+map_Bump Materials\material_33ae0e23\mo_cliffs_03_normal.dds 
+ 
+newmtl material_33ae0e26 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_33ae0e26\ld_mine_rocks_4_col.dds 
+map_Bump Materials\material_33ae0e26\ld_mine_rocks_4_norm.dds 
+ 
+newmtl material_0c199f99 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0c199f99\ld_road_line_decals_jungle_col.dds 
+map_Bump Materials\material_0c199f99\ld_road_line_decals_jungle_norm.dds 
+ 
+map_d Materials\material_0c199f99\ld_road_line_decals_jungle_alpha.dds 
+ 
+newmtl material_f00eb8c3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f00eb8c3\sr_colony_sewers_walls_tile_col.dds 
+map_Bump Materials\material_f00eb8c3\sr_colony_sewers_walls_tile_norm.dds 
+ 
+newmtl material_74f65481 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_74f65481\ajs_int_small_room_wall_col.dds 
+map_Bump Materials\material_74f65481\ajs_int_small_room_wall_norm.dds 
+ 
+newmtl material_4e5f8fbb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4e5f8fbb\dn_rusty_pipe_dp_col.dds 
+map_Bump Materials\material_4e5f8fbb\dn_rusty_pipe_dp_nrm.dds 
+ 
+newmtl material_bc11d3aa 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bc11d3aa\bridge_diffuse copy.dds 
+map_Bump Materials\material_bc11d3aa\bridge_normal copy.dds 
+ 
+newmtl material_ae8bebcb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ae8bebcb\cp_scaffold_walkway_diff_01.dds 
+map_Bump Materials\material_ae8bebcb\cp_scaffold_walkway_norm_01.dds 
+ 
+map_d Materials\material_ae8bebcb\cp_scaffold_walkway_alpha_01.dds 
+ 
+newmtl material_9ba8eb70 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9ba8eb70\dn_rusty_pipe_col.dds 
+map_Bump Materials\material_9ba8eb70\dn_rusty_pipe_nrm.dds 
+ 
+newmtl material_7f2b8cd4 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7f2b8cd4\pja_dist_builds_wall.dds 
+map_Bump Materials\material_7f2b8cd4\pja_dist_builds_wall_norm.dds 
+ 
+map_d Materials\material_7f2b8cd4\pja_dist_builds_wall_trans.dds 
+ 
+newmtl material_e2d3b895 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e2d3b895\ajs_ext_door_frame_col.dds 
+map_Bump Materials\material_e2d3b895\ajs_ext_door_frame_norm.dds 
+ 
+newmtl material_5010f269 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5010f269\ajs_ext_corigated_plate_col.dds 
+map_Bump Materials\material_5010f269\ajs_ext_corigated_plate_norm.dds 
+ 
+newmtl material_40c756bf 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_40c756bf\sdr_ext_vehicle_tracks_col.dds 
+map_Bump Materials\material_40c756bf\sg_muddy_ground_02_tracks_norm.dds 
+ 
+map_d Materials\material_40c756bf\sdr_ext_vehicle_tracks_fade_alpha.dds 
+ 
+newmtl material_cb543bf8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_cb543bf8\sdr_ext_vehicle_tracks_col.dds 
+map_Bump Materials\material_cb543bf8\sg_muddy_ground_02_tracks_norm.dds 
+ 
+map_d Materials\material_cb543bf8\sdr_ext_vehicle_tracks_alpha.dds 
+ 
+newmtl material_19b3be2d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_19b3be2d\ajs_ext_window_large_col.dds 
+map_Bump Materials\material_19b3be2d\ajs_ext_window_large_norm.dds 
+ 
+newmtl material_6c49db2c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6c49db2c\ajs_int_red_pipe.dds 
+map_Bump Materials\material_6c49db2c\ajs_int_red_pipe_norm.dds 
+ 
+newmtl material_e5048a3c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e5048a3c\rc_satelite_dish_top_col.dds 
+map_Bump Materials\material_e5048a3c\rc_satelite_dish_top_norm.dds 
+ 
+newmtl material_b5470950 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b5470950\rc_satelite_dish_front_col.dds 
+map_Bump Materials\material_b5470950\rc_satelite_dish_front_norm.dds 
+ 
+newmtl material_cb83fffa 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_cb83fffa\ajs_ext_corner_slopes_col.dds 
+map_Bump Materials\material_cb83fffa\ajs_ext_corner_slopes_norm.dds 
+ 
+map_d Materials\material_cb83fffa\ajs_ext_corner_slopes_trans.dds 
+ 
+newmtl material_e24e2178 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e24e2178\ajs_int_large_coridor_floor_bars_col.dds 
+map_Bump Materials\material_e24e2178\ajs_int_large_coridor_floor_bars_norm.dds 
+ 
+newmtl material_dfd99914 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_dfd99914\as_roof_detail.dds 
+map_Bump Materials\material_dfd99914\as_roof_detail_norm.dds 
+ 
+newmtl material_b503330b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b503330b\sdr_ext_roof_slope_tile_col.dds 
+map_Bump Materials\material_b503330b\sdr_ext_roof_slope_tile_norm.dds 
+ 
+newmtl material_6457af72 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6457af72\sdr_ext_roof_slope_corner_col.dds 
+map_Bump Materials\material_6457af72\sdr_ext_roof_slope_corner_norm.dds 
+ 
+newmtl material_ca946edc 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ca946edc\ajs_ext_prefab_corner_block_col.dds 
+map_Bump Materials\material_ca946edc\ajs_ext_prefab_corner_block_norm.dds 
+ 
+newmtl material_9adfa39e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9adfa39e\rc_weyland_warning_col.dds 
+map_Bump Materials\material_9adfa39e\rc_poster_norm.dds 
+ 
+map_d Materials\material_9adfa39e\rc_poster_opa.dds 
+ 
+newmtl material_c4b1a7b7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c4b1a7b7\sdr_ext_roof_tile_col.dds 
+map_Bump Materials\material_c4b1a7b7\sdr_ext_roof_tile_norm.dds 
+ 
+newmtl material_fcd0ee87 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fcd0ee87\ajs_int_large_coridor_floor_plate_col.dds 
+map_Bump Materials\material_fcd0ee87\ajs_int_large_coridor_floor_plate_norm.dds 
+ 
+map_d Materials\material_fcd0ee87\ajs_int_large_coridor_floor_plate_trans.dds 
+ 
+newmtl material_8cd9234f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8cd9234f\sdr_generic_concrete_light_col.dds 
+map_Bump Materials\material_8cd9234f\sdr_generic_concrete_norm.dds 
+ 
+newmtl material_c02f4da6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c02f4da6\ajs_ext_walkway_roof_col.dds 
+map_Bump Materials\material_c02f4da6\ajs_ext_walkway_roof_norm.dds 
+ 
+newmtl material_7e3d03e7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7e3d03e7\rc_weyland_corporate_col.dds 
+map_Bump Materials\material_7e3d03e7\rc_poster_norm.dds 
+ 
+map_d Materials\material_7e3d03e7\rc_poster_opa.dds 
+ 
+newmtl material_92a1e18c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_92a1e18c\rc_weyland_power_advert_col.dds 
+map_Bump Materials\material_92a1e18c\rc_poster_norm.dds 
+ 
+map_d Materials\material_92a1e18c\rc_poster_opa.dds 
+ 
+newmtl material_27d4df36 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_27d4df36\nt_machine_room_typesigns_diffuse.dds 
+map_Bump Materials\material_27d4df36\nt_machine_room_typesigns_normal.dds 
+ 
+newmtl material_e4709c41 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e4709c41\ajs_int_stair_post.dds 
+map_Bump Materials\material_e4709c41\ajs_int_stair_post_norm.dds 
+ 
+newmtl material_62ccdd17 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_62ccdd17\ajs_ext_window_frame_col.dds 
+map_Bump Materials\material_62ccdd17\ajs_ext_window_frame_norm.dds 
+ 
+newmtl material_79c4849f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_79c4849f\sdr_colony_bridge_ext_2_col.dds 
+map_Bump Materials\material_79c4849f\sdr_colony_bridge_ext_2_norm.dds 
+ 
+newmtl material_5260ed10 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5260ed10\aj_int_floor_basic_bumps_dark_col.dds 
+map_Bump Materials\material_5260ed10\aj_int_floor_basic_bumps_norm.dds 
+ 
+newmtl material_e32d19f2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e32d19f2\ajs_int_metal_stripe_dark_col.dds 
+map_Bump Materials\material_e32d19f2\ajs_int_metal_stripe_norm.dds 
+ 
+newmtl material_e9736abf 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e9736abf\wz_tunnelwall_plain_col.dds 
+map_Bump Materials\material_e9736abf\wz_tunnelwall_1_norm.dds 
+ 
+newmtl material_762c0f5a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_762c0f5a\ajs_int_grill_and_pipes_col.dds 
+map_Bump Materials\material_762c0f5a\ajs_int_grill_and_pipes_norm.dds 
+ 
+map_d Materials\material_762c0f5a\ajs_int_grill_and_pipes_trans.dds 
+ 
+newmtl material_8d56b182 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8d56b182\sdr_ext_panel_col.dds 
+map_Bump Materials\material_8d56b182\sdr_ext_panel_norm.dds 
+ 
+newmtl material_dab7c8f0 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_dab7c8f0\sdr_colony_pipe_col.dds 
+map_Bump Materials\material_dab7c8f0\sdr_colony_pipe_norm.dds 
+ 
+newmtl material_ec25c3ec 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ec25c3ec\sdr_colony_bridge_ext_col.dds 
+map_Bump Materials\material_ec25c3ec\sdr_colony_bridge_ext_norm.dds 
+ 
+newmtl material_f5013122 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f5013122\cp_refinery_02_coll.dds 
+map_Bump Materials\material_f5013122\cp_refinery_02_norm.dds 
+ 
+newmtl material_c4bf873a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c4bf873a\nt_ref_main_tower_crane_parts01_diffuse.dds 
+map_Bump Materials\material_c4bf873a\nt_ref_main_tower_crane_parts01_normal.dds 
+ 
+newmtl material_a4cd56e0 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_a4cd56e0\cp_refinery_03_coll.dds 
+map_Bump Materials\material_a4cd56e0\cp_refinery_03_norm.dds 
+ 
+newmtl material_0286278a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0286278a\sr_sml_colony_aircon_unit_col.dds 
+map_Bump Materials\material_0286278a\sr_sml_colony_aircon_unit_norm.dds 
+ 
+newmtl material_68f7da33 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_68f7da33\sr_lg_colony_aircon_unit_col.dds 
+map_Bump Materials\material_68f7da33\sr_lg_colony_aircon_unit_norm.dds 
+ 
+newmtl material_39eedf28 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_39eedf28\nt_ref_main_tower_side01_diffuse.dds 
+map_Bump Materials\material_39eedf28\nt_ref_main_tower_side01_normal.dds 
+ 
+newmtl material_39eedf29 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_39eedf29\nt_ref_main_tower_side02_diffuse.dds 
+map_Bump Materials\material_39eedf29\nt_ref_main_tower_side02_normal.dds 
+ 
+newmtl material_c4bf873b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c4bf873b\nt_ref_main_tower_crane_parts02_diffuse.dds 
+map_Bump Materials\material_c4bf873b\nt_ref_main_tower_crane_parts02_normal.dds 
+ 
+map_d Materials\material_c4bf873b\nt_ref_main_tower_crane_parts02_opacity.dds 
+ 
+newmtl material_02a5eafb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_02a5eafb\ajs_int_coridor_vents1_col.dds 
+map_Bump Materials\material_02a5eafb\ajs_int_coridor_vents1_norm.dds 
+ 
+newmtl material_c97f2f8f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c97f2f8f\ajs_int_floor_sides_col.dds 
+map_Bump Materials\material_c97f2f8f\ajs_int_floor_sides_norm.dds 
+ 
+newmtl material_1e8c165c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1e8c165c\aj_floor_panle_corner_col.dds 
+map_Bump Materials\material_1e8c165c\aj_floor_panle_corner_norm.dds 
+ 
+newmtl material_cbbcc840 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_cbbcc840\ajs_int_corner_col.dds 
+map_Bump Materials\material_cbbcc840\ajs_int_corner_norm.dds 
+ 
+newmtl material_4d19bd15 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4d19bd15\ajs_int_roof_corner_col.dds 
+map_Bump Materials\material_4d19bd15\ajs_int_roof_corner_norm.dds 
+ 
+newmtl material_ae3b0d8a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ae3b0d8a\ajs_int_mega_detail_plate2_col.dds 
+map_Bump Materials\material_ae3b0d8a\ajs_int_mega_detail_plate_norm.dds 
+ 
+newmtl material_ec106d53 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ec106d53\ajs_int_post_col.dds 
+map_Bump Materials\material_ec106d53\ajs_int_post_norm.dds 
+ 
+newmtl material_c98fea61 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c98fea61\ajs_side_grill.dds 
+map_Bump Materials\material_c98fea61\ajs_side_grill_norm.dds 
+ 
+map_d Materials\material_c98fea61\ajs_side_grill_trans.dds 
+ 
+newmtl material_df26ef69 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_df26ef69\ajs_int_red_pipe.dds 
+map_Bump Materials\material_df26ef69\ajs_int_red_pipe_norm.dds 
+ 
+newmtl material_829cff61 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_829cff61\ajs_int_silver_pipe.dds 
+map_Bump Materials\material_829cff61\ajs_int_red_pipe_norm.dds 
+ 
+newmtl material_cfaf649a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_cfaf649a\ajs_side_grill.dds 
+map_Bump Materials\material_cfaf649a\ajs_side_grill_norm.dds 
+ 
+map_d Materials\material_cfaf649a\ajs_side_grill_trans.dds 
+ 
+newmtl material_7a2bdf5d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7a2bdf5d\ajs_int_entrance_obj_col.dds 
+map_Bump Materials\material_7a2bdf5d\ajs_int_entrance_obj_norm.dds 
+ 
+newmtl material_30abbac1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_30abbac1\ajs_int_aliens_solid_pan_col.dds 
+map_Bump Materials\material_30abbac1\ajs_int_aliens_solid_pan_norm.dds 
+ 
+newmtl material_dd462406 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_dd462406\sr_colony_sewers_mesh2.dds 
+map_Bump Materials\material_dd462406\sr_colony_sewers_mesh2_norm.dds 
+ 
+map_d Materials\material_dd462406\sr_colony_sewers_mesh2_alpha.dds 
+ 
+newmtl material_848b2588 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_848b2588\ajs_int_coridor_vents1_col.dds 
+map_Bump Materials\material_848b2588\ajs_int_coridor_vents1_norm.dds 
+ 
+newmtl material_e473956b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e473956b\ajs_int_stair_wall_col.dds 
+map_Bump Materials\material_e473956b\ajs_int_stair_wall_norm.dds 
+ 
+newmtl material_204731b9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_204731b9\ajs_room_panle_col.dds 
+map_Bump Materials\material_204731b9\ajs_room_panle_norm.dds 
+ 
+newmtl material_159ca1aa 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_159ca1aa\amp_maintenance_sign.dds 
+map_Bump Materials\material_159ca1aa\amp_maintenance_sign_norm.dds 
+ 
+newmtl material_634350bb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_634350bb\ajs_int_stairs_floor_dirt_col.dds 
+map_Bump Materials\material_634350bb\ajs_int_stairs_floor_norm.dds 
+ 
+newmtl material_06072d20 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_06072d20\ajs_int_stairs_floor_dirt_col.dds 
+map_Bump Materials\material_06072d20\ajs_int_stairs_floor_norm.dds 
+ 
+newmtl material_4246f3d7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4246f3d7\blood_dragged_col.dds 
+map_Bump Materials\material_4246f3d7\blood_dragged_normal.dds 
+ 
+map_d Materials\material_4246f3d7\blood_dragged_col.dds 
+ 
+newmtl material_f8106201 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f8106201\ajs_int_acid_burn_large_col.dds 
+map_Bump Materials\material_f8106201\ajs_int_acid_burn_large_norm.dds 
+ 
+map_d Materials\material_f8106201\ajs_int_acid_burn_large_trans_ap.dds 
+ 
+newmtl material_c2c3d949 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c2c3d949\ajs_ext_panle_col_dark.dds 
+map_Bump Materials\material_c2c3d949\ajs_ext_panel_norm.dds 
+ 
+newmtl material_97c0fedd 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_97c0fedd\wz_roofplates_10_col.dds 
+map_Bump Materials\material_97c0fedd\wz_roofplates_10_norm.dds 
+ 
+newmtl material_3a8e6891 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3a8e6891\sr_colony_sewers_mesh2.dds 
+map_Bump Materials\material_3a8e6891\sr_colony_sewers_mesh2_norm.dds 
+ 
+map_d Materials\material_3a8e6891\sr_colony_sewers_mesh2_alpha.dds 
+ 
+newmtl material_a7e5820a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_3cf4b248 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3cf4b248\ajs_room_panle_02_col.dds 
+map_Bump Materials\material_3cf4b248\ajs_room_panle_norm.dds 
+ 
+newmtl material_053f409b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_053f409b\aj_int_floor_basic_bumps_col.dds 
+map_Bump Materials\material_053f409b\aj_int_floor_basic_bumps_norm.dds 
+ 
+newmtl material_0776e98c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0776e98c\wz_roofplates_10_co_dirtyl.dds 
+map_Bump Materials\material_0776e98c\wz_roofplates_10_norm.dds 
+ 
+newmtl material_546821c4 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_546821c4\nt_garage_room_panel_alt_diffuse.dds 
+map_Bump Materials\material_546821c4\nt_garage_room_panel_alt_normal.dds 
+ 
+newmtl material_129319d2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_129319d2\rc_hive_alien_bits_col.dds 
+map_Bump Materials\material_129319d2\rc_hive_alien_bits_norm.dds 
+ 
+newmtl material_840af8d2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_840af8d2\ajs_int_grill_and_pipes_col.dds 
+map_Bump Materials\material_840af8d2\ajs_int_grill_and_pipes_norm.dds 
+ 
+newmtl material_7fe383c3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_ce338757 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ce338757\sr_colony_sewers_walls_tile_col.dds 
+map_Bump Materials\material_ce338757\sr_colony_sewers_walls_tile_norm.dds 
+ 
+newmtl material_198006ba 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_198006ba\grey.bmp 
+newmtl material_33ddf74b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_33ddf74b\amp_duct_fan_and _pipes_01.dds 
+map_Bump Materials\material_33ddf74b\amp_duct_fan_01_norm.dds 
+ 
+map_d Materials\material_33ddf74b\amp_duct_fan_and _pipes_01_trans.dds 
+ 
+newmtl material_337c2cf2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_337c2cf2\ajs_int_metal_stripe_dark_col.dds 
+map_Bump Materials\material_337c2cf2\ajs_int_metal_stripe_norm.dds 
+ 
+newmtl material_ccc26970 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ccc26970\ajs_int_clamp_col.dds 
+map_Bump Materials\material_ccc26970\ajs_int_clamp_norm.dds 
+ 
+newmtl material_5a594043 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5a594043\ajs_int_metal_stripe_col.dds 
+map_Bump Materials\material_5a594043\ajs_int_metal_stripe_norm.dds 
+ 
+newmtl material_e020c02b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e020c02b\rm_window_edge_col.dds 
+map_Bump Materials\material_e020c02b\rm_window_edge_norm.dds 
+ 
+newmtl material_69bd2206 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_69bd2206\ajs_int_clamp_top_col.dds 
+map_Bump Materials\material_69bd2206\ajs_int_clamp_top_norm.dds 
+ 
+newmtl material_26d8feb3 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_26d8feb3\ms_bathroom_tiles_b_dirty_col.dds 
+map_Bump Materials\material_26d8feb3\ms_bathroom_tiles_b_norm.dds 
+ 
+newmtl material_bb60471f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bb60471f\ms_pillar_a_col.dds 
+map_Bump Materials\material_bb60471f\ms_pillar_a_norm.dds 
+ 
+newmtl material_d7ecf850 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_d7ecf850\ajs_int_squares_col.dds 
+map_Bump Materials\material_d7ecf850\ajs_int_squares_norm.dds 
+ 
+newmtl material_52275429 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_52275429\ajs_int_large_room_roof.dds 
+map_Bump Materials\material_52275429\ajs_int_large_room_roof_norm.dds 
+ 
+newmtl material_2bf988e0 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2bf988e0\rm_girder_ceiling_col.dds 
+map_Bump Materials\material_2bf988e0\rm_girder_ceiling_norm.dds 
+ 
+newmtl material_de1ba1fa 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_de1ba1fa\ajs_int_metal_stripe_col.dds 
+map_Bump Materials\material_de1ba1fa\ajs_int_metal_stripe_norm.dds 
+ 
+newmtl material_a4c360ba 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_a4c360ba\rc_server_out_col.dds 
+map_Bump Materials\material_a4c360ba\rc_server_out_norm.dds 
+ 
+newmtl material_f3a39fc2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f3a39fc2\rc_server_door_col.dds 
+map_Bump Materials\material_f3a39fc2\rc_server_door_norm.dds 
+ 
+map_d Materials\material_f3a39fc2\rc_server_door_opa.dds 
+ 
+newmtl material_54ad1186 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_54ad1186\kw_lift_brace_col.dds 
+map_Bump Materials\material_54ad1186\kw_lift_brace_norm.dds 
+ 
+newmtl material_ff707cca 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ff707cca\sdr_decals_col.dds 
+map_d Materials\material_ff707cca\sdr_decals_col.dds 
+ 
+newmtl material_92c61e5d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_92c61e5d\mines_hanging_shaft_grill_diffuse.dds 
+map_Bump Materials\material_92c61e5d\mines_hanging_shaft_grill_normal.dds 
+ 
+map_d Materials\material_92c61e5d\mines_hanging_shaft_grill_alpha.dds 
+ 
+newmtl material_7c234a43 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7c234a43\nt_troom_texture03_diffuse.dds 
+map_Bump Materials\material_7c234a43\nt_troom_texture03_normal.dds 
+ 
+newmtl material_9e860fc8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9e860fc8\wz_hatch_col.dds 
+map_Bump Materials\material_9e860fc8\wz_hatch_norm.dds 
+ 
+map_d Materials\material_9e860fc8\wz_hatch_tmap.dds 
+ 
+newmtl material_64d70af0 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_64d70af0\wz_footplate_cmap.dds 
+map_Bump Materials\material_64d70af0\wz_footplate_nmap.dds 
+ 
+newmtl material_b1399416 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b1399416\nt_window_bars_color_rusted.dds 
+map_Bump Materials\material_b1399416\mo_window_bars_normal.dds 
+ 
+map_d Materials\material_b1399416\mo_window_bars_transp.dds 
+ 
+newmtl material_42bca763 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_42bca763\nt_hive_walkway_grate_diffuse.dds 
+map_Bump Materials\material_42bca763\nt_hive_walkway_grate_normal.dds 
+ 
+map_d Materials\material_42bca763\nt_hive_walkway_grate_alpha.dds 
+ 
+newmtl material_9bfa7947 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9bfa7947\nt_machine_room_panel03_diffuse.dds 
+map_Bump Materials\material_9bfa7947\nt_machine_room_panel03_normal.dds 
+ 
+newmtl material_733e8e4c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_733e8e4c\nt_machine_room_floor_diffuse.dds 
+map_Bump Materials\material_733e8e4c\nt_machine_room_floor_normal.dds 
+ 
+newmtl material_94e290d2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_94e290d2\nt_qbr_basement_floor_corner_large_diffuse.dds 
+map_Bump Materials\material_94e290d2\nt_qbr_basement_floor_corner_large_normal.dds 
+ 
+map_d Materials\material_94e290d2\nt_qbr_basement_floor_corner_large_opacity.dds 
+ 
+newmtl material_0dae335c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0dae335c\sr_colony_garage_panel_01_dirty_col.dds 
+map_Bump Materials\material_0dae335c\sr_colony_garage_panel_01_norm.dds 
+ 
+newmtl material_9bfa7945 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9bfa7945\nt_machine_room_panel01_diffuse.dds 
+map_Bump Materials\material_9bfa7945\nt_machine_room_panel01_normal.dds 
+ 
+newmtl material_9bfa7948 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9bfa7948\nt_machine_room_panel05_diffuse.dds 
+map_Bump Materials\material_9bfa7948\nt_machine_room_panel05_normal.dds 
+ 
+newmtl material_bd9e272a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bd9e272a\sr_warehouse_grill_col.dds 
+map_Bump Materials\material_bd9e272a\sr_warehouse_grill_norm.dds 
+ 
+map_d Materials\material_bd9e272a\sr_warehouse_grill_alpha.dds 
+ 
+newmtl material_9bfa7946 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_9bfa7946\nt_machine_room_panel02_diffuse.dds 
+map_Bump Materials\material_9bfa7946\nt_machine_room_panel02_normal.dds 
+ 
+newmtl material_decd92ee 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_decd92ee\nt_qbr_basement_floor_grate_diffuse.dds 
+map_Bump Materials\material_decd92ee\nt_qbr_basement_floor_grate_normal.dds 
+ 
+map_d Materials\material_decd92ee\nt_qbr_basement_floor_grate_opacity02.dds 
+ 
+newmtl material_b73d573e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b73d573e\sr_warehouse_grill_col.dds 
+map_Bump Materials\material_b73d573e\sr_warehouse_grill_norm.dds 
+ 
+map_d Materials\material_b73d573e\sr_warehouse_grill_alpha.dds 
+ 
+newmtl material_aab0af87 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_aab0af87\nt_machine_room_typesigns_diffuse.dds 
+map_d Materials\material_aab0af87\nt_machine_room_typesigns_alpha.dds 
+ 
+newmtl material_6c993efd 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6c993efd\nt_qbr_basement_column01_diffuse.dds 
+map_Bump Materials\material_6c993efd\nt_qbr_basement_column01_normal.dds 
+ 
+newmtl material_a1970f43 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_a1970f43\nt_qbrhanging_pillar_diffuse.dds 
+map_Bump Materials\material_a1970f43\nt_qbrhanging_pillar_normal.dds 
+ 
+newmtl material_de866d45 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_de866d45\ld_tarmac_cracked_red_dust_col.dds 
+map_Bump Materials\material_de866d45\ld_tarmac_2_cracked_norm.dds 
+ 
+newmtl material_71480641 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_71480641\rc_tarmac_cracked_wet_3_col.dds 
+map_Bump Materials\material_71480641\rc_tarmac_cracked_wet_3_norm.dds 
+ 
+newmtl material_fc2aed17 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fc2aed17\rc_mine_rocks_4_wet_col.dds 
+map_Bump Materials\material_fc2aed17\rc_mine_rocks_4_wet_norm.dds 
+ 
+newmtl material_ab68394d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ab68394d\ld_mine_rubble_col.dds 
+map_Bump Materials\material_ab68394d\ld_mine_rubble_norm.dds 
+ 
+newmtl material_6cd91093 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6cd91093\rc_red_rock_large_3_col.dds 
+map_Bump Materials\material_6cd91093\rc_red_rock_large_3_norm.dds 
+ 
+newmtl material_3799f9eb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3799f9eb\wall_support1_diffuse.dds 
+map_Bump Materials\material_3799f9eb\wall_support1_normal.dds 
+ 
+newmtl material_3799f9ec 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3799f9ec\wall_support2_diffuse.dds 
+map_Bump Materials\material_3799f9ec\wall_support2_normal.dds 
+ 
+newmtl material_33ae0e27 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_33ae0e27\ld_mine_rocks_5_col.dds 
+map_Bump Materials\material_33ae0e27\ld_mine_rocks_5_norm.dds 
+ 
+newmtl material_fd2d7f41 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fd2d7f41\rc_red_rock_large_1_mine_col.dds 
+map_Bump Materials\material_fd2d7f41\rc_red_rock_large_1_norm.dds 
+ 
+newmtl material_3799f9ed 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3799f9ed\wall_support3_diffuse.dds 
+map_Bump Materials\material_3799f9ed\wall_support3_normal.dds 
+ 
+newmtl material_dd6b734a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_dd6b734a\mo_rc_red_rock_large_moss_2_col.dds 
+map_Bump Materials\material_dd6b734a\mo_rc_red_rock_large_moss_2_normal.dds 
+ 
+newmtl material_fe58df50 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fe58df50\ajs_ext_panle_col_dark.dds 
+map_Bump Materials\material_fe58df50\ajs_ext_panle_norm.bmp 
+ 
+newmtl material_85d3383a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_85d3383a\wz_tunnelwall_variant_1_col.dds 
+map_Bump Materials\material_85d3383a\wz_tunnelwall_variant_1_norm.dds 
+ 
+newmtl material_ae2d7663 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ae2d7663\rc_mine_rocks_4__varient_col.dds 
+map_Bump Materials\material_ae2d7663\rc_mine_rocks_4__varient_norm.dds 
+ 
+newmtl material_d2eacea6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_d2eacea6\rc_door_frame_refinery_col.dds 
+map_Bump Materials\material_d2eacea6\rc_door_frame_refinery_norm.dds 
+ 
+newmtl material_0bae42f9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0bae42f9\rc_mines_door_signs_col.dds 
+map_Bump Materials\material_0bae42f9\rc_mines_door_signs_norm.dds 
+ 
+newmtl material_52039cc2 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_52039cc2\rc_red_rock_medium_2_col.dds 
+map_Bump Materials\material_52039cc2\rc_red_rock_medium_2_norm.dds 
+ 
+newmtl material_b5fcf4cb 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b5fcf4cb\ld_tarmac_heavydamage_red_dust_col.dds 
+map_Bump Materials\material_b5fcf4cb\ld_tarmac_heavydamage_red_dust_norm.dds 
+ 
+newmtl material_882cdcba 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_4573bcc9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4573bcc9\ld_ruin_floor_col.dds 
+map_Bump Materials\material_4573bcc9\ld_ruin_ceiling_norm.dds 
+ 
+newmtl material_c5665fef 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c5665fef\ld_ruin_wall_int_trims_col.dds 
+map_Bump Materials\material_c5665fef\ld_ruin_wall_int_trims_norm.dds 
+ 
+newmtl material_121c1044 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_121c1044\ld_ruin_wall_int_patterned_bricks_col.dds 
+map_Bump Materials\material_121c1044\ld_ruin_wall_int_patterned_bricks_norm.dds 
+ 
+newmtl material_f526abf1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f526abf1\ld_ruin_wall_ext_col.dds 
+map_Bump Materials\material_f526abf1\ld_ruin_wall_ext_norm.dds 
+ 
+newmtl material_bef65749 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bef65749\ld_ruin_wall_int_plain_bricks_col.dds 
+map_Bump Materials\material_bef65749\ld_ruin_wall_int_plain_bricks_norm.dds 
+ 
+newmtl material_5949a3bc 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_3d4d5e9c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3d4d5e9c\nt_mesh_fence_diffuse.dds 
+map_Bump Materials\material_3d4d5e9c\nt_grate_design_01_normal.dds 
+ 
+map_d Materials\material_3d4d5e9c\nt_grate_design_01_alpha.dds 
+ 
+newmtl material_3d4d5e9d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3d4d5e9d\ld_new_grill_coll.dds 
+map_Bump Materials\material_3d4d5e9d\nt_grate_design_02_normal.dds 
+ 
+map_d Materials\material_3d4d5e9d\grate_design_02_alpha.dds 
+ 
+newmtl material_79850f59 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_79850f59\ld_depot_col.dds 
+map_d Materials\material_79850f59\ld_depot_col.dds 
+ 
+newmtl material_8133c061 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8133c061\nt_ref_mine_carts01_diffuse.dds 
+map_Bump Materials\material_8133c061\nt_ref_mine_carts01_normal.dds 
+ 
+newmtl material_8133c062 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8133c062\nt_ref_mine_carts02_diffuse.dds 
+map_Bump Materials\material_8133c062\nt_ref_mine_carts02_normal.dds 
+ 
+newmtl material_5fbc65ff 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5fbc65ff\ld_outer_perimeter_col.dds 
+map_d Materials\material_5fbc65ff\ld_outer_perimeter_col.dds 
+ 
+newmtl material_1366c3a6 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1366c3a6\nt_condenser_texture01_diffuse.dds 
+map_Bump Materials\material_1366c3a6\nt_condenser_texture01_normal.dds 
+ 
+newmtl material_e90e461b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e90e461b\nt_qbr_mini_rooms_02_diffuse.dds 
+map_Bump Materials\material_e90e461b\nt_qbr_mini_rooms_02_normal.dds 
+ 
+newmtl material_569652a9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_569652a9\nt_tunnel_vent_wallpanel_diffuse.dds 
+map_Bump Materials\material_569652a9\nt_tunnel_vent_wallpanel_normal.dds 
+ 
+newmtl material_1fa2d3f5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1fa2d3f5\rc_mines_door_signs_col.dds 
+map_Bump Materials\material_1fa2d3f5\rc_mines_door_signs_norm.dds 
+ 
+newmtl material_090eac7b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_090eac7b\sr_colony_garage_panel_01_col.dds 
+map_Bump Materials\material_090eac7b\sr_colony_garage_panel_01_norm.dds 
+ 
+newmtl material_7994d456 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7994d456\dn_horizon_mountain_rocks_col.dds 
+newmtl material_7994dae1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_7994dae1\dn_horizon_mountain_trees_col.dds 
+newmtl material_0ea5c31d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_0ea5c31d\ld_mine_bigrubble_col.dds 
+map_Bump Materials\material_0ea5c31d\ld_mine_bigrubble_norm.dds 
+ 
+newmtl material_b9de108f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_b9de108f\ajs_shanty1_col.dds 
+map_Bump Materials\material_b9de108f\ajs_shanty1_norm.dds 
+ 
+map_d Materials\material_b9de108f\ajs_shanty1_col.dds 
+ 
+newmtl material_963cb64a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_963cb64a\sdr_colony_junk_col.dds 
+map_Bump Materials\material_963cb64a\sdr_colony_junk_norm.dds 
+ 
+map_d Materials\material_963cb64a\sdr_colony_junk_col.dds 
+ 
+newmtl material_2c5fa871 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_2c5fa871\ajs_int_cables_col.dds 
+map_Bump Materials\material_2c5fa871\ajs_int_cables_norm.dds 
+ 
+map_d Materials\material_2c5fa871\ajs_int_cables_col.dds 
+ 
+newmtl material_60dfcc6d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_60dfcc6d\amp_chains_01.dds 
+map_d Materials\material_60dfcc6d\amp_chains_01.dds 
+ 
+newmtl material_db7d58cf 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_db7d58cf\ld_goop_strand_col.dds 
+map_Bump Materials\material_db7d58cf\ld_goop_strand_norm.dds 
+ 
+map_d Materials\material_db7d58cf\ld_goop_strand_col.dds 
+ 
+newmtl material_1c31c89c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1c31c89c\mk_ab_goop_col.dds 
+map_Bump Materials\material_1c31c89c\mk_ab_goop_norm.dds 
+ 
+map_d Materials\material_1c31c89c\ld_goop_strand_col.dds 
+ 
+newmtl material_4f5b7973 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4f5b7973\ld_hive_col.dds 
+map_Bump Materials\material_4f5b7973\ld_hive_norm.dds 
+ 
+newmtl material_80a86e84 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_80a86e84\ld_hive_boney_col.dds 
+map_Bump Materials\material_80a86e84\ld_hive_boney_norm.dds 
+ 
+newmtl material_c9bdf6ab 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_c9bdf6ab\ld_tarmac_2.dds 
+map_Bump Materials\material_c9bdf6ab\ld_tarmac_2_norm.dds 
+ 
+newmtl material_990856e7 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_990856e7\nt_window_bars_color_rusted.dds 
+map_Bump Materials\material_990856e7\ld_mo_window_bars_norm.dds 
+ 
+map_d Materials\material_990856e7\ld_mo_window_bars_transp.dds 
+ 
+newmtl material_8f29cb6f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8f29cb6f\nt_vehicle_corridor_floor_diffuse.dds 
+map_Bump Materials\material_8f29cb6f\nt_vehicle_corridor_floor_normal.dds 
+ 
+newmtl material_d8c21852 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_d8c21852\ld_wz_base_metal.dds 
+newmtl material_55df3f22 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_55df3f22\mo_ajs_concrete_slab_cracked.dds 
+map_Bump Materials\material_55df3f22\mo_ajs_concrete_slab_cracked_norm.dds 
+ 
+newmtl material_d1a15e83 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_d1a15e83\ajs_concrete_slab.dds 
+map_Bump Materials\material_d1a15e83\ajs_concrete_slab_norm.dds 
+ 
+newmtl material_88d3e69d 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_88d3e69d\ld_tarmac_2_cracked_col.dds 
+map_Bump Materials\material_88d3e69d\ld_tarmac_2_cracked_norm.dds 
+ 
+newmtl material_74b6f88e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_74b6f88e\ld_tarmac_cracked_brown_dust_col.dds 
+map_Bump Materials\material_74b6f88e\ld_tarmac_2_cracked_norm.dds 
+ 
+newmtl material_ea06a6ad 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ea06a6ad\ld_tarmac_cracked_red_dust_col.dds 
+map_Bump Materials\material_ea06a6ad\ld_tarmac_2_cracked_norm.dds 
+ 
+newmtl material_f1585170 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f1585170\ld_tarmac_broken_edge_col.dds 
+map_Bump Materials\material_f1585170\ld_tarmac_broken_edge_norm.dds 
+ 
+newmtl material_34a13f18 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_34a13f18\ld_tarmac_plain_brown_dust_col.dds 
+map_Bump Materials\material_34a13f18\ld_tarmac_2_norm.dds 
+ 
+newmtl material_e065997a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e065997a\sr_colony_sewers_walls_tile_col.dds 
+map_Bump Materials\material_e065997a\sr_colony_sewers_walls_tile_norm.dds 
+ 
+newmtl material_ebe190e5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_ebe190e5\ld_hive_col.dds 
+map_Bump Materials\material_ebe190e5\ld_hive_norm.dds 
+ 
+newmtl material_f6271302 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f6271302\ld_hive_ceiling_col.dds 
+map_Bump Materials\material_f6271302\ld_hive_ceiling_norm.dds 
+ 
+newmtl material_bbef8f1e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bbef8f1e\rc_hive_wall_col.dds 
+map_Bump Materials\material_bbef8f1e\rc_hive_wall_norm.dds 
+ 
+newmtl material_86ad6288 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_86ad6288\ld_hive_orafice_col.dds 
+map_Bump Materials\material_86ad6288\ld_hive_orafice_norm.dds 
+ 
+newmtl material_5fc73c05 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5fc73c05\nt_troom_texture02_diffuse.dds 
+map_Bump Materials\material_5fc73c05\nt_troom_texture02_normal.dds 
+ 
+newmtl material_07d318dc 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_07d318dc\nt_troom_texture03_diffuse.dds 
+map_Bump Materials\material_07d318dc\nt_troom_texture03_normal.dds 
+ 
+newmtl material_32b79aa5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_32b79aa5\ld_hived_over_troom06_col.dds 
+map_Bump Materials\material_32b79aa5\ld_hived_over_troom06_norm.dds 
+ 
+newmtl material_fc90a23a 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_fc90a23a\nt_hive_duct_diffuse.dds 
+map_Bump Materials\material_fc90a23a\nt_hive_duct_normal.dds 
+ 
+newmtl material_6db71814 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6db71814\wz_edgethings_02_col.dds 
+map_Bump Materials\material_6db71814\wz_edgethings_02_norm.dds 
+ 
+newmtl material_700bdeaa 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_700bdeaa\wz_roofplates_10_col.dds 
+map_Bump Materials\material_700bdeaa\wz_roofplates_10_norm.dds 
+ 
+newmtl material_07d318da 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_07d318da\nt_troom_texture01_diffuse.dds 
+map_Bump Materials\material_07d318da\nt_troom_texture01_normal.dds 
+ 
+newmtl material_4a7567b5 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_4a7567b5\ld_hived_refinery_floor_col.dds 
+map_Bump Materials\material_4a7567b5\ld_hived_refinery_floor_norm.dds 
+ 
+newmtl material_44b18ea9 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_44b18ea9\wz_metalfloorplate_01_rustedup.dds 
+map_Bump Materials\material_44b18ea9\wz_metalfloorplate_01_normal.dds 
+ 
+newmtl material_07d318dd 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_07d318dd\nt_troom_texture04_diffuse.dds 
+map_Bump Materials\material_07d318dd\nt_troom_texture04_normal.dds 
+ 
+newmtl material_f5db6d2c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_f5db6d2c\nt_vehicle_corridor_floor_sides_diffuse.dds 
+map_Bump Materials\material_f5db6d2c\nt_vehicle_corridor_floor_sides_normal.dds 
+ 
+newmtl material_1d97517e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1d97517e\nt_vehicle_cor_01_diffuse.dds 
+map_Bump Materials\material_1d97517e\nt_vehicle_cor_01_normal.dds 
+ 
+newmtl material_bb71f956 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_bb71f956\nt_tunnel_floor_side.dds 
+map_Bump Materials\material_bb71f956\nt_tunnel_floor_side_normal.dds 
+ 
+newmtl material_33ae0e28 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_33ae0e28\ld_mine_rocks_6_col.dds 
+map_Bump Materials\material_33ae0e28\ld_mine_rocks_6_norm.dds 
+ 
+newmtl material_031f030c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 
+newmtl material_aef59e19 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_aef59e19\rc_red_rock_large_2_col.dds 
+map_Bump Materials\material_aef59e19\rc_red_rock_large_2_norm.dds 
+ 
+newmtl material_58e1b66b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_58e1b66b\rc_red_rock_ground_col.dds 
+map_Bump Materials\material_58e1b66b\rc_red_rock_ground_norm.dds 
+ 
+newmtl material_5c65722c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_5c65722c\ld_wiggz_wall_singlebrick_2_col.dds 
+map_Bump Materials\material_5c65722c\ld_wiggz_wall_singlebrick_2_norm.dds 
+ 
+newmtl material_36b8f452 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_36b8f452\ld_hived_nt_vehicle_corridor_floor_sides_col.dds 
+map_Bump Materials\material_36b8f452\ld_hived_nt_vehicle_corridor_floor_sides_norm.dds 
+ 
+newmtl material_96218a58 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_96218a58\nt_qbr_wallpanel_diffuse.dds 
+map_Bump Materials\material_96218a58\nt_qbr_wallpanel_normal.dds 
+ 
+newmtl material_e25c313b 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_e25c313b\nt_bridge01_diffuse.dds 
+map_Bump Materials\material_e25c313b\nt_bridge01_normal.dds 
+ 
+newmtl material_a30c329c 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_a30c329c\nt_qbrhanging_pillar_diffuse.dds 
+map_Bump Materials\material_a30c329c\nt_qbrhanging_pillar_normal.dds 
+ 
+newmtl material_6865f4c1 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_6865f4c1\nt_lift_shaft_structure02_diffuse.dds 
+map_Bump Materials\material_6865f4c1\nt_lift_shaft_structure02_normal.dds 
+ 
+map_d Materials\material_6865f4c1\nt_lift_shaft_structure02_alpha.dds 
+ 
+newmtl material_1d97517f 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_1d97517f\nt_vehicle_cor_02_diffuse.dds 
+map_Bump Materials\material_1d97517f\nt_vehicle_cor_02_normal.dds 
+ 
+newmtl material_57eaa892 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_57eaa892\nt_mine_gate_diffuse.dds 
+map_Bump Materials\material_57eaa892\nt_mine_gate_normal.dds 
+ 
+map_d Materials\material_57eaa892\nt_mine_gate_alpha.dds 
+ 
+newmtl material_75a02ed4 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_75a02ed4\nt_refinery_building_diffuse01 .dds 
+map_Bump Materials\material_75a02ed4\nt_refinery_building_normal .dds 
+ 
+newmtl material_8e169c47 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_8e169c47\nt_control_room_corridor_diffuse.dds 
+map_Bump Materials\material_8e169c47\nt_control_room_corridor_normal.dds 
+ 
+newmtl material_20d609b8 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_20d609b8\nt_qbr_basement_wall01_diffuse.dds 
+map_Bump Materials\material_20d609b8\nt_qbr_basement_wall01_normal.dds 
+ 
+newmtl material_3f70e351 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd Materials\material_3f70e351\ld_hived_ajs_int_metal_striped_dark_col.dds 
+map_Bump Materials\material_3f70e351\ld_hived_ajs_int_metal_striped_dark_norm.dds 
+ 
+newmtl material_469ca00e 
+Ka 1.000000 1.000000 1.000000 
+Kd 1.000000 1.000000 1.000000 
+Ks 0.000000 0.000000 0.000000 
+Tr 1.000000 
+illum 1 
+Ns 0.000000 
+map_Kd default.dds 
+ 

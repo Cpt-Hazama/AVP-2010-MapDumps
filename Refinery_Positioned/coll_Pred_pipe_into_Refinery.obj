@@ -1,0 +1,25 @@
+# imported from AVP2010MapViewer 
+#Map Dump test 
+ 
+ 
+mtllib Materials\Materials.mtl 
+ 
+# vertexes 
+g 
+v 63.461155 16.878298 -226.129028 
+vt 0.368244 0.319649 
+vn -0.000427 -1.027588 -1.000000 
+v 63.461155 16.878300 -225.357849 
+vt 0.368244 0.319649 
+vn -0.000427 -1.027588 -1.000000 
+v 63.487099 15.939171 -225.357849 
+vt 0.368244 0.319649 
+vn -0.000427 -1.027588 -1.000000 
+# faces 
+
+
+
+g coll_Pred_pipe_into_Refinery.part0 
+usemtl material_375425e8 
+f 1/1/1 2/2/2 3/3/3 
+f 1/1/1 2/2/2 3/3/3 
